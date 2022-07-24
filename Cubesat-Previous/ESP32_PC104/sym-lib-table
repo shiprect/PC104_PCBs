@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name sma_molex_horizontal)(type Legacy)(uri ${KIPRJMOD}/Libraries/SMA/sma_molex_horizontal.lib)(options "")(descr ""))
+  (lib (name ESP32-PICO-D4)(type Legacy)(uri ${KIPRJMOD}/Libraries/LIB_ESP32-PICO-D4/ESP32-PICO-D4.lib)(options "")(descr ""))
+  (lib (name HX1)(type Legacy)(uri ${KIPRJMOD}/Libraries/HX1.pretty/HX1.lib)(options "")(descr ""))
+  (lib (name HAB_ESP32-rescue)(type Legacy)(uri ${KIPRJMOD}/HAB_ESP32-rescue.lib)(options "")(descr ""))
+  (lib (name OM-7604-C7)(type Legacy)(uri ${KIPRJMOD}/Libraries/OM-7604-C7-32.768kHz/OM-7604-C7.lib)(options "")(descr ""))
+  (lib (name ESD9B3.3ST5G)(type Legacy)(uri ${KIPRJMOD}/Libraries/ESD9B3.3ST5G.lib)(options "")(descr ""))
+)

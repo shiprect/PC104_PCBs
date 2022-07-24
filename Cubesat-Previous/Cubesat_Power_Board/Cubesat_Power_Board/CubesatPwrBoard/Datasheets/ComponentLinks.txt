@@ -1,0 +1,17 @@
+Solar Cells
+https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990479
+
+Voltage Regulator
+https://www.digikey.com/en/products/detail/analog-devices-inc/LTC3129EUD-1-PBF/3913101
+
+Bat54 Schottky Diode
+https://www.digikey.com/en/products/detail/onsemi/BAT54LT1G/917810
+
+Power Good Switch
+https://www.mouser.com/ProductDetail/Texas-Instruments/TPS22810DBVR?qs=34RfhUjJmKcFqeJVMZZhPA%3D%3D
+
+Batteries
+https://www.digikey.com/en/products/detail/zeus-battery-products/PCIFR18650-1500/9828824
+
+Battery Charger
+https://www.digikey.com/en/products/detail/analog-devices-inc/LTC4162IUFD-FAD-PBF/9446112
