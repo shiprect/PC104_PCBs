@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 691508110302
+#
+DEF 691508110302 J 0 40 Y N 1 L N
+F0 "J" -192 -36 50 H V L BNN
+F1 "691508110302" -190 -102 50 H V L BNN
+F2 "691508110302" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "30 to 16 (AWG) 0.05 to 1.31 (mm²)" 0 0 50 H I L BNN "WIRE"
+F5 "THT" 0 0 50 H I L BNN "MOUNT"
+F6 "10A" 0 0 50 H I L BNN "IR-UL"
+F7 "300V (AC)" 0 0 50 H I L BNN "WORKING-VOLTAGE-UL"
+F8 "https://www.we-online.com/catalog/datasheet/691508110302.pdf" 0 0 50 H I L BNN "DATASHEET-URL"
+F9 "3.5mm" 0 0 50 H I L BNN "PITCH"
+F10 "2" 0 0 50 H I L BNN "PINS"
+F11 "691508110302" 0 0 50 H I L BNN "PART-NUMBER"
+F12 "Horizontal" 0 0 50 H I L BNN "TYPE"
+DRAW
+P 2 0 0 10 -150 0 50 0 N
+P 2 0 0 10 -100 -70 -100 -100 N
+P 2 0 0 10 0 -70 0 -100 N
+P 2 0 0 6 -90 -40 -110 -60 N
+P 2 0 0 6 10 -40 -10 -60 N
+C -100 -50 20 0 0 10 N
+C 0 -50 20 0 0 10 N
+S -150 -100 50 0 0 0 10 f
+X ~ 1 -100 -200 100 U 40 40 0 0 P 
+X ~ 2 0 -200 100 U 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

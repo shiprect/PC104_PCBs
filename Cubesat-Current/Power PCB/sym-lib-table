@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name TPS22810DBVR)(type Legacy)(uri ${KIPRJMOD}/Libraries/TPS22/TPS22810DBVR.lib)(options "")(descr ""))
+  (lib (name TQM110NB04CR_RLG)(type Legacy)(uri ${KIPRJMOD}/Libraries/TQM110N/TQM110NB04CR_RLG.lib)(options "")(descr ""))
+  (lib (name LTC4162IUFD)(type Legacy)(uri ${KIPRJMOD}/Libraries/LTC4162/LTC4162IUFD.lib)(options "")(descr ""))
+  (lib (name 2N7002_)(type Legacy)(uri ${KIPRJMOD}/Libraries/2N7002/2N7002_.lib)(options "")(descr ""))
+  (lib (name BK-18650-PC8)(type Legacy)(uri ${KIPRJMOD}/Libraries/BK-18650-PC8/BK-18650-PC8.lib)(options "")(descr ""))
+  (lib (name 254TR)(type Legacy)(uri ${KIPRJMOD}/Libraries/254TR/254TR.lib)(options "")(descr ""))
+  (lib (name CubesatPwrBoard-rescue)(type Legacy)(uri ${KIPRJMOD}/CubesatPwrBoard-rescue.lib)(options "")(descr ""))
+)

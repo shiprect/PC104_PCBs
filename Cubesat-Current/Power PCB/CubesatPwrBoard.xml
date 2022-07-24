@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Luke\Desktop\SEDS\Cubesat_Power_Board\CubesatPwrBoard\CubesatPwrBoard.sch</source>
+    <date>7/15/2022 3:05:53 PM</date>
+    <tool>Eeschema (5.1.10)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Cubesat Power Board</title>
+        <company>SEDS TnTech - Luke Chapman</company>
+        <rev>1</rev>
+        <date>2022-07-09</date>
+        <source>CubesatPwrBoard.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="SC3">
+      <value>Solar_Cells</value>
+      <footprint>6915_1x2:691508110302</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CBA21F</tstamp>
+    </comp>
+    <comp ref="SC2">
+      <value>Solar_Cells</value>
+      <footprint>6915_1x2:691508110302</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CBC82B</tstamp>
+    </comp>
+    <comp ref="SC4">
+      <value>Solar_Cells</value>
+      <footprint>6915_1x2:691508110302</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CBD1B4</tstamp>
+    </comp>
+    <comp ref="SC7">
+      <value>Solar_Cells</value>
+      <footprint>6915_1x2:691508110302</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CBDDA8</tstamp>
+    </comp>
+    <comp ref="SC5">
+      <value>Solar_Cells</value>
+      <footprint>6915_1x2:691508110302</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CBE609</tstamp>
+    </comp>
+    <comp ref="SC6">
+      <value>Solar_Cells</value>
+      <footprint>6915_1x2:691508110302</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CBECC3</tstamp>
+    </comp>
+    <comp ref="SC8">
+      <value>Solar_Cells</value>
+      <footprint>6915_1x2:691508110302</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CBF4EC</tstamp>
+    </comp>
+    <comp ref="SC11">
+      <value>Solar_Cells</value>
+      <footprint>6915_1x2:691508110302</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CBFE31</tstamp>
+    </comp>
+    <comp ref="SC9">
+      <value>Solar_Cells</value>
+      <footprint>6915_1x2:691508110302</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CC042F</tstamp>
+    </comp>
+    <comp ref="SC12">
+      <value>Solar_Cells</value>
+      <footprint>6915_1x2:691508110302</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CC1292</tstamp>
+    </comp>
+    <comp ref="SC10">
+      <value>Solar_Cells</value>
+      <footprint>6915_1x2:691508110302</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CC18EC</tstamp>
+    </comp>
+    <comp ref="SC1">
+      <value>Solar_Cells</value>
+      <footprint>6915_1x2:691508110302</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CC752A</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D_Schottky_Small</value>
+      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CCBF45</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D_Schottky_Small</value>
+      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CCC7F5</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D_Schottky_Small</value>
+      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CCD0E6</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D_Schottky_Small</value>
+      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CCD485</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D_Schottky_Small</value>
+      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CCEF8E</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D_Schottky_Small</value>
+      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CCF924</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>2.5</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F3D18E</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>150u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="CP1-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F4473C</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="CP1-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F471C6</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>TQM110NB04CR_RLG</value>
+      <footprint>TQM110N:TRANS_TQM110NB04CR_RLG</footprint>
+      <fields>
+        <field name="MANUFACTURER">Taiwan Semiconductor</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="PARTREV">A1910</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TQM110NB04CR_RLG" part="TQM110NB04CR_RLG" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CD477A</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>16m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CE5AAE</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CFCEB4</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>4.7u</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="L-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62D004BD</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>22n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62D0C998</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>2N7002*</value>
+      <footprint>2N7002:SOT23</footprint>
+      <libsource lib="2N7002_" part="2N7002*" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CF496A</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62D3BA71</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62D699DE</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62D6A813</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>63.4k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62D7806B</tstamp>
+    </comp>
+    <comp ref="TH1">
+      <value>Thermistor_NTC</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Thermistor_NTC-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62D87848</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>16m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="R-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62D92453</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>SystemLoad</value>
+      <footprint>Connector_Wire:SolderWirePad_1x01_SMD_5x10mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Conn_01x01_Female-Connector" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62E6BFA3</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="C-Device" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62DD19CF</tstamp>
+    </comp>
+    <comp ref="BT1">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F632DD</tstamp>
+    </comp>
+    <comp ref="BT3">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F6A9B2</tstamp>
+    </comp>
+    <comp ref="BT5">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F6AE17</tstamp>
+    </comp>
+    <comp ref="BT7">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F6B2EB</tstamp>
+    </comp>
+    <comp ref="BT8">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F6BA74</tstamp>
+    </comp>
+    <comp ref="BT6">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F6BF70</tstamp>
+    </comp>
+    <comp ref="BT4">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F6C546</tstamp>
+    </comp>
+    <comp ref="BT2">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62F6C8E2</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>SystemLoad</value>
+      <footprint>Connector_Wire:SolderWirePad_1x01_SMD_5x10mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="CubesatPwrBoard-rescue" part="Conn_01x01_Female-Connector" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6302C07E</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>I2C</value>
+      <footprint>6915_1x4:691508110304</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62D30C60</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LTC4162</value>
+      <footprint>LTC4162:QFN50P500X400X80-29N</footprint>
+      <libsource lib="LTC4162IUFD" part="LTC4162" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62CB80FD</tstamp>
+    </comp>
+    <comp ref="J14">
+      <value>Test_Point</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62E25038</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>Test_Point</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62E2609E</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Test_Point</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62E26787</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Test_Point</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62E27180</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>Test_Point</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62E277EF</tstamp>
+    </comp>
+    <comp ref="J15">
+      <value>Test_Point</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62E27F04</tstamp>
+    </comp>
+    <comp ref="J16">
+      <value>Test_Point_GND</value>
+      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62E7BB58</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="254TR" part="254TR">
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">254TR</field>
+        <field name="Footprint">BAT_254TR</field>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <pins>
+        <pin num="P1_1" name="~" type="passive"/>
+        <pin num="P1_2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="2N7002_" part="2N7002*">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7002*</field>
+        <field name="Footprint">SOT23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x01_Female">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Female">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CubesatPwrBoard-rescue" part="C-Device">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CubesatPwrBoard-rescue" part="CP1-Device">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CubesatPwrBoard-rescue" part="Conn_01x01_Female-Connector">
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Female-Connector</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device">
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky_Small-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CubesatPwrBoard-rescue" part="L-Device">
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CubesatPwrBoard-rescue" part="R-Device">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device">
+      <fields>
+        <field name="Reference">SC</field>
+        <field name="Value">Solar_Cells-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CubesatPwrBoard-rescue" part="Thermistor_NTC-Device">
+      <footprints>
+        <fp>*NTC*</fp>
+        <fp>*Thermistor*</fp>
+        <fp>PIN?ARRAY*</fp>
+        <fp>bornier*</fp>
+        <fp>*Terminal?Block*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TH</field>
+        <field name="Value">Thermistor_NTC-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LTC4162IUFD" part="LTC4162">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LTC4162</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BOOST" type="input"/>
+        <pin num="2" name="INTVCC" type="input"/>
+        <pin num="3" name="VOUTA" type="input"/>
+        <pin num="4" name="CLN" type="input"/>
+        <pin num="5" name="CLP" type="input"/>
+        <pin num="6" name="INFET" type="input"/>
+        <pin num="7" name="VIN" type="input"/>
+        <pin num="8" name="VCC2P5" type="input"/>
+        <pin num="9" name="NTCBIAS" type="input"/>
+        <pin num="10" name="NTC" type="input"/>
+        <pin num="11" name="RT" type="input"/>
+        <pin num="12" name="/SMBALERT" type="input"/>
+        <pin num="13" name="SCL" type="input"/>
+        <pin num="14" name="SDA" type="input"/>
+        <pin num="15" name="DVCC" type="input"/>
+        <pin num="16" name="SYNC" type="input"/>
+        <pin num="17" name="CELLS0" type="input"/>
+        <pin num="18" name="CELLS1" type="input"/>
+        <pin num="19" name="BATSENS+" type="input"/>
+        <pin num="20" name="CSN" type="input"/>
+        <pin num="21" name="CSP" type="input"/>
+        <pin num="22" name="BATFET" type="input"/>
+        <pin num="23" name="PGND" type="input"/>
+        <pin num="24" name="PGND" type="input"/>
+        <pin num="25" name="SW" type="input"/>
+        <pin num="26" name="SW" type="input"/>
+        <pin num="27" name="VOUT" type="input"/>
+        <pin num="28" name="VOUT" type="input"/>
+        <pin num="29" name="AGND" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="TQM110NB04CR_RLG" part="TQM110NB04CR_RLG">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TQM110NB04CR_RLG</field>
+        <field name="Footprint">TRANS_TQM110NB04CR_RLG</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="PARTREV">A1910</field>
+        <field name="MANUFACTURER">Taiwan Semiconductor</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5_8" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="254TR">
+      <uri>C:\Users\Luke\Desktop\SEDS\Cubesat_Power_Board\CubesatPwrBoard/Libraries/254TR/254TR.lib</uri>
+    </library>
+    <library logical="2N7002_">
+      <uri>C:\Users\Luke\Desktop\SEDS\Cubesat_Power_Board\CubesatPwrBoard/Libraries/2N7002/2N7002_.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="CubesatPwrBoard-rescue">
+      <uri>C:\Users\Luke\Desktop\SEDS\Cubesat_Power_Board\CubesatPwrBoard/CubesatPwrBoard-rescue.lib</uri>
+    </library>
+    <library logical="LTC4162IUFD">
+      <uri>C:\Users\Luke\Desktop\SEDS\Cubesat_Power_Board\CubesatPwrBoard/Libraries/LTC4162/LTC4162IUFD.lib</uri>
+    </library>
+    <library logical="TQM110NB04CR_RLG">
+      <uri>C:\Users\Luke\Desktop\SEDS\Cubesat_Power_Board\CubesatPwrBoard/Libraries/TQM110N/TQM110NB04CR_RLG.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(R2-Pad2)">
+      <node ref="TH1" pin="1"/>
+      <node ref="R2" pin="2"/>
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="BT2" pin="P1_2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="BT2" pin="P1_1"/>
+      <node ref="BT4" pin="P1_2"/>
+      <node ref="SC10" pin="2"/>
+      <node ref="BT4" pin="P1_1"/>
+      <node ref="SC8" pin="2"/>
+      <node ref="R4" pin="1"/>
+      <node ref="BT6" pin="P1_2"/>
+      <node ref="BT6" pin="P1_1"/>
+      <node ref="SC1" pin="2"/>
+      <node ref="J16" pin="1"/>
+      <node ref="U1" pin="29"/>
+      <node ref="C4" pin="2"/>
+      <node ref="SC3" pin="2"/>
+      <node ref="SC2" pin="2"/>
+      <node ref="SC4" pin="2"/>
+      <node ref="SC7" pin="2"/>
+      <node ref="SC5" pin="2"/>
+      <node ref="SC6" pin="2"/>
+      <node ref="SC11" pin="2"/>
+      <node ref="SC9" pin="2"/>
+      <node ref="SC12" pin="2"/>
+      <node ref="BT8" pin="P1_2"/>
+      <node ref="TH1" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="BT8" pin="P1_1"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="U1" pin="16"/>
+      <node ref="U1" pin="17"/>
+      <node ref="U1" pin="23"/>
+      <node ref="U1" pin="24"/>
+    </net>
+    <net code="3" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1"/>
+      <node ref="U1" pin="9"/>
+    </net>
+    <net code="4" name="Net-(C4-Pad1)">
+      <node ref="U1" pin="2"/>
+      <node ref="U1" pin="18"/>
+      <node ref="C4" pin="1"/>
+    </net>
+    <net code="5" name="Net-(L1-Pad2)">
+      <node ref="L1" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="U1" pin="21"/>
+      <node ref="Q2" pin="2"/>
+    </net>
+    <net code="6" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2"/>
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="7" name="Net-(C3-Pad2)">
+      <node ref="U1" pin="8"/>
+      <node ref="C3" pin="2"/>
+    </net>
+    <net code="8" name="Net-(J3-Pad1)">
+      <node ref="U1" pin="15"/>
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="9" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2"/>
+      <node ref="U1" pin="14"/>
+    </net>
+    <net code="10" name="Net-(D6-Pad2)">
+      <node ref="J15" pin="1"/>
+      <node ref="SC11" pin="1"/>
+      <node ref="D6" pin="2"/>
+      <node ref="SC12" pin="1"/>
+    </net>
+    <net code="11" name="Net-(D4-Pad2)">
+      <node ref="SC7" pin="1"/>
+      <node ref="SC8" pin="1"/>
+      <node ref="D4" pin="2"/>
+      <node ref="J11" pin="1"/>
+    </net>
+    <net code="12" name="Net-(D2-Pad2)">
+      <node ref="SC4" pin="1"/>
+      <node ref="SC3" pin="1"/>
+      <node ref="D2" pin="2"/>
+      <node ref="J7" pin="1"/>
+    </net>
+    <net code="13" name="Net-(D3-Pad2)">
+      <node ref="SC5" pin="1"/>
+      <node ref="J10" pin="1"/>
+      <node ref="SC6" pin="1"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="14" name="Net-(J3-Pad4)">
+      <node ref="J3" pin="4"/>
+      <node ref="U1" pin="12"/>
+    </net>
+    <net code="15" name="Net-(J3-Pad3)">
+      <node ref="U1" pin="13"/>
+      <node ref="J3" pin="3"/>
+    </net>
+    <net code="16" name="Net-(BT1-PadP1_1)">
+      <node ref="R5" pin="1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="BT3" pin="P1_2"/>
+      <node ref="BT5" pin="P1_1"/>
+      <node ref="BT7" pin="P1_1"/>
+      <node ref="BT7" pin="P1_2"/>
+      <node ref="J2" pin="1"/>
+      <node ref="BT5" pin="P1_2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="U1" pin="19"/>
+      <node ref="U1" pin="20"/>
+      <node ref="BT3" pin="P1_1"/>
+      <node ref="BT1" pin="P1_1"/>
+      <node ref="BT1" pin="P1_2"/>
+    </net>
+    <net code="17" name="Net-(D1-Pad2)">
+      <node ref="SC1" pin="1"/>
+      <node ref="SC2" pin="1"/>
+      <node ref="J6" pin="1"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="18" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1"/>
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="19" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="J14" pin="1"/>
+      <node ref="SC9" pin="1"/>
+      <node ref="SC10" pin="1"/>
+    </net>
+    <net code="20" name="Net-(C2-Pad1)">
+      <node ref="D5" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="21" name="Net-(C5-Pad2)">
+      <node ref="U1" pin="25"/>
+      <node ref="U1" pin="26"/>
+      <node ref="C5" pin="2"/>
+      <node ref="L1" pin="1"/>
+    </net>
+    <net code="22" name="Net-(C6-Pad1)">
+      <node ref="R3" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="U1" pin="27"/>
+      <node ref="U1" pin="28"/>
+      <node ref="U1" pin="3"/>
+      <node ref="Q2" pin="3"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="23" name="Net-(Q1-Pad5_8)">
+      <node ref="U1" pin="5"/>
+      <node ref="R3" pin="2"/>
+      <node ref="Q1" pin="5_8"/>
+    </net>
+    <net code="24" name="Net-(C5-Pad1)">
+      <node ref="U1" pin="1"/>
+      <node ref="C5" pin="1"/>
+    </net>
+    <net code="25" name="Net-(C1-Pad1)">
+      <node ref="R1" pin="2"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="26" name="Net-(Q1-Pad4)">
+      <node ref="Q1" pin="4"/>
+      <node ref="U1" pin="6"/>
+    </net>
+  </nets>
+</export>
