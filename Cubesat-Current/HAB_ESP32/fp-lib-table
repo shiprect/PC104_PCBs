@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Connector_Coaxial)(type KiCad)(uri ${KIPRJMOD}/Libraries/Connector_Coaxial.pretty)(options "")(descr ""))
+  (lib (name HX1)(type KiCad)(uri ${KIPRJMOD}/Libraries/HX1.pretty)(options "")(descr ""))
+  (lib (name LIB_ESP32-PICO-D4)(type KiCad)(uri ${KIPRJMOD}/Libraries/LIB_ESP32-PICO-D4)(options "")(descr ""))
+  (lib (name OM-7604-C7-32)(type KiCad)(uri ${KIPRJMOD}/Libraries/OM-7604-C7-32.768kHz)(options "")(descr ""))
+)
