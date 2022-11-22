@@ -1,9 +1,0 @@
-(fp_lib_table
-  (lib (name LTC4162)(type KiCad)(uri ${KIPRJMOD}/Libraries/LTC4162)(options "")(descr ""))
-  (lib (name TQM110N)(type KiCad)(uri ${KIPRJMOD}/Libraries/TQM110N)(options "")(descr ""))
-  (lib (name 2N7002)(type KiCad)(uri ${KIPRJMOD}/Libraries/2N7002)(options "")(descr ""))
-  (lib (name CUS520,H3F)(type KiCad)(uri ${KIPRJMOD}/Libraries/CUS520,H3F)(options "")(descr ""))
-  (lib (name BK-18650-PC8)(type KiCad)(uri ${KIPRJMOD}/Libraries/BK-18650-PC8)(options "")(descr ""))
-  (lib (name 254TR)(type KiCad)(uri ${KIPRJMOD}/Libraries/254TR)(options "")(descr ""))
-  (lib (name 6915_1x2)(type KiCad)(uri ${KIPRJMOD}/Libraries/6915_1x2)(options "")(descr ""))
-)
