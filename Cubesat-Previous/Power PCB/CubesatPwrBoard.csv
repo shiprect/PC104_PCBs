@@ -1,0 +1,47 @@
+Reference, Value, Footprint, MANUFACTURER, MAXIMUM_PACKAGE_HEIGHT, PARTREV,LINK,,,,,,,,,
+SC3,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990479 ,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
+SC2,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990480,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
+SC4,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990481,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
+SC7,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990482,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
+SC5,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990483,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
+SC6,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990484,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
+SC8,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990485,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
+SC11,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990486,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
+SC9,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990487,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
+SC12,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990488,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
+SC10,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990489,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
+SC1,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990490,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
+D5,D_Schottky_Small,"CUS520,H3F:DIO_CUS520,H3F",,,,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CUS520-H3F/5114303,,,,,,,,,
+D3,D_Schottky_Small,"CUS520,H3F:DIO_CUS520,H3F",,,,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CUS520-H3F/5114303,,,,,,,,,
+D1,D_Schottky_Small,"CUS520,H3F:DIO_CUS520,H3F",,,,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CUS520-H3F/5114303,,,,,,,,,
+D2,D_Schottky_Small,"CUS520,H3F:DIO_CUS520,H3F",,,,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CUS520-H3F/5114303,,,,,,,,,
+D4,D_Schottky_Small,"CUS520,H3F:DIO_CUS520,H3F",,,,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CUS520-H3F/5114303,,,,,,,,,
+D6,D_Schottky_Small,"CUS520,H3F:DIO_CUS520,H3F",,,,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CUS520-H3F/5114303,,,,,,,,,
+R1,2.5,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,,,,,,,,,,,,
+C1,150u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
+C2,0.1u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
+Q1,TQM110NB04CR_RLG,TQM110N:TRANS_TQM110NB04CR_RLG,Taiwan Semiconductor,1.1 mm,A1910,https://www.mouser.com/ProductDetail/Taiwan-Semiconductor/TQM110NB04CR-RLG?qs=DPoM0jnrROURamXIVGUkVQ%3D%3D,,,,,,,,,
+R3,16m,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,,,,,,,,,,,,
+C6,10u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
+L1,4.7u,Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,,,,,,,,,,,,
+C5,22n,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
+Q2,2N7002*,2N7002:SOT23,,,,https://www.mouser.com/ProductDetail/Infineon-Technologies/2N7002-H6327?qs=CVg1V728NXGZyf6kD1tkzQ%3D%3D,,,,,,,,,
+R5,10m,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,,,,,,,,,,,,
+C4,4.7u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
+C3,1u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
+R4,63.4k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,,,,,,,,,,,,
+TH1,Thermistor_NTC,Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,,,,,,,,,,,,,
+R2,16m,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+C7,10u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
+BT1,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
+BT3,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
+BT5,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
+BT7,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
+BT8,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
+BT6,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
+BT4,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
+BT2,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
+J2,SystemLoad,Connector_Wire:SolderWirePad_1x01_SMD_5x10mm,,,,,,,,,,,,,
+J3,I2C,6915_1x4:691508110304,,,,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/691508110304/5047810,,,,,,,,,
+U1,LTC4162,LTC4162:QFN50P500X400X80-29N,,,,,,,,,,,,,
