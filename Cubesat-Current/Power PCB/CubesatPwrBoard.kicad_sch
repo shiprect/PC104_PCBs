@@ -1807,7 +1807,7 @@
       (reference "BT6") (unit 1) (value "254TR") (footprint "254TR:BAT_254TR")
     )
     (path "/3fd114ff-e33c-4b16-8730-59d4b28c2f50/8b99398b-d928-4188-a113-e7a2dacce9cf"
-      (reference "C1") (unit 1) (value "C_Polarized_US") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C1") (unit 1) (value "C_Polarized_US") (footprint "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder")
     )
     (path "/3fd114ff-e33c-4b16-8730-59d4b28c2f50/c8c6d269-aa41-4a59-b227-57f5b19fa8c5"
       (reference "C2") (unit 1) (value "C_Polarized_US") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -1828,7 +1828,7 @@
       (reference "C7") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/8b99398b-d928-4188-a113-e7a2dacce9cf"
-      (reference "C8") (unit 1) (value "150u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C8") (unit 1) (value "150u") (footprint "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder")
     )
     (path "/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/c8c6d269-aa41-4a59-b227-57f5b19fa8c5"
       (reference "C9") (unit 1) (value "C_Polarized_US") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -1849,7 +1849,7 @@
       (reference "C14") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/5758088c-06eb-4f39-8d11-5015bb01b0cf/8b99398b-d928-4188-a113-e7a2dacce9cf"
-      (reference "C15") (unit 1) (value "150u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C15") (unit 1) (value "150u") (footprint "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder")
     )
     (path "/5758088c-06eb-4f39-8d11-5015bb01b0cf/c8c6d269-aa41-4a59-b227-57f5b19fa8c5"
       (reference "C16") (unit 1) (value "C_Polarized_US") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
