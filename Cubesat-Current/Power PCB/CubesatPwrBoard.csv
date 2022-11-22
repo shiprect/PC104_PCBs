@@ -1,47 +1,167 @@
-Reference, Value, Footprint, MANUFACTURER, MAXIMUM_PACKAGE_HEIGHT, PARTREV,LINK,,,,,,,,,
-SC3,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990479 ,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
-SC2,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990480,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
-SC4,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990481,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
-SC7,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990482,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
-SC5,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990483,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
-SC6,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990484,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
-SC8,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990485,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
-SC11,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990486,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
-SC9,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990487,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
-SC12,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990488,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
-SC10,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990489,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
-SC1,Solar_Cells,6915_1x2:691508110302,ANYSOLAR,,,https://www.digikey.com/en/products/detail/anysolar-ltd/KXOB25-14X1F-TR/9990490,,,,,,,,,https://www.mouser.com/ProductDetail/Wurth-Elektronik/691508110302?qs=a9WhcLg8qCzx8dxzpZo9ew%3D%3D
-D5,D_Schottky_Small,"CUS520,H3F:DIO_CUS520,H3F",,,,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CUS520-H3F/5114303,,,,,,,,,
-D3,D_Schottky_Small,"CUS520,H3F:DIO_CUS520,H3F",,,,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CUS520-H3F/5114303,,,,,,,,,
-D1,D_Schottky_Small,"CUS520,H3F:DIO_CUS520,H3F",,,,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CUS520-H3F/5114303,,,,,,,,,
-D2,D_Schottky_Small,"CUS520,H3F:DIO_CUS520,H3F",,,,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CUS520-H3F/5114303,,,,,,,,,
-D4,D_Schottky_Small,"CUS520,H3F:DIO_CUS520,H3F",,,,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CUS520-H3F/5114303,,,,,,,,,
-D6,D_Schottky_Small,"CUS520,H3F:DIO_CUS520,H3F",,,,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CUS520-H3F/5114303,,,,,,,,,
-R1,2.5,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,,,,,,,,,,,,
-C1,150u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
-C2,0.1u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
-Q1,TQM110NB04CR_RLG,TQM110N:TRANS_TQM110NB04CR_RLG,Taiwan Semiconductor,1.1 mm,A1910,https://www.mouser.com/ProductDetail/Taiwan-Semiconductor/TQM110NB04CR-RLG?qs=DPoM0jnrROURamXIVGUkVQ%3D%3D,,,,,,,,,
-R3,16m,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,,,,,,,,,,,,
-C6,10u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
-L1,4.7u,Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder,,,,,,,,,,,,,
-C5,22n,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
-Q2,2N7002*,2N7002:SOT23,,,,https://www.mouser.com/ProductDetail/Infineon-Technologies/2N7002-H6327?qs=CVg1V728NXGZyf6kD1tkzQ%3D%3D,,,,,,,,,
-R5,10m,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,,,,,,,,,,,,
-C4,4.7u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
-C3,1u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
-R4,63.4k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,,,,,,,,,,,,
-TH1,Thermistor_NTC,Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,,,,,,,,,,,,,
-R2,16m,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-C7,10u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,,,,,,,,,,,,,
-BT1,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
-BT3,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
-BT5,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
-BT7,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
-BT8,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
-BT6,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
-BT4,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
-BT2,254TR,254TR:BAT_254TR,Keystone Electronics,17.215 mm,A,https://www.digikey.com/en/products/detail/keystone-electronics/254TR/9646026,,,,,,,,,
-J2,SystemLoad,Connector_Wire:SolderWirePad_1x01_SMD_5x10mm,,,,,,,,,,,,,
-J3,I2C,6915_1x4:691508110304,,,,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/691508110304/5047810,,,,,,,,,
-U1,LTC4162,LTC4162:QFN50P500X400X80-29N,,,,,,,,,,,,,
+"Source:","/home/khronos/Desktop/Power PCB/CubesatPwrBoard.kicad_sch"
+"Date:","Wed 09 Nov 2022 06:24:06 PM CST"
+"Tool:","Eeschema 6.0.7"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","119"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","PARTREV","STANDARD"
+"","","BT1","254TR","254TR:254TR","254TR:BAT_254TR","","Keystone Electronics","17.215 mm","A","Manufacturer Recommendations"
+"","","BT2","254TR","254TR:254TR","254TR:BAT_254TR","","Keystone Electronics","17.215 mm","A","Manufacturer Recommendations"
+"","","BT3","254TR","254TR:254TR","254TR:BAT_254TR","","Keystone Electronics","17.215 mm","A","Manufacturer Recommendations"
+"","","BT4","254TR","254TR:254TR","254TR:BAT_254TR","","Keystone Electronics","17.215 mm","A","Manufacturer Recommendations"
+"","","BT5","254TR","254TR:254TR","254TR:BAT_254TR","","Keystone Electronics","17.215 mm","A","Manufacturer Recommendations"
+"","","BT6","254TR","254TR:254TR","254TR:BAT_254TR","","Keystone Electronics","17.215 mm","A","Manufacturer Recommendations"
+"","","BT7","254TR","254TR:254TR","254TR:BAT_254TR","","Keystone Electronics","17.215 mm","A","Manufacturer Recommendations"
+"","","BT8","254TR","254TR:254TR","254TR:BAT_254TR","","Keystone Electronics","17.215 mm","A","Manufacturer Recommendations"
+"","","C1","C_Polarized_US","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C2","C_Polarized_US","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C3","C","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C4","C","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C5","C","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C6","C","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C7","C","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C8","150u","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C9","C_Polarized_US","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C10","1u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C11","4.7u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C12","C","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C13","10u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C14","10u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C15","150u","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C16","C_Polarized_US","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C17","1u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C18","4.7u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C19","C","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C20","10u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C21","10u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C22","150u","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C23","C_Polarized_US","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C24","1u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C25","4.7u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C26","C","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C27","10u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C28","10u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C29","C_Polarized_US","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C30","C_Polarized_US","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C31","4.7u","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C32","100u","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C33","4.7u","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C34","100u","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C35","4.7u","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","C36","100u","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"","","D1","D_Schottky_Small","Device:D_Schottky_Small","CUS520,H3F:DIO_CUS520,H3F","~","","","",""
+"","","D2","D_Schottky_Small","Device:D_Schottky_Small","CUS520,H3F:DIO_CUS520,H3F","~","","","",""
+"","","D3","D_Schottky_Small","Device:D_Schottky_Small","CUS520,H3F:DIO_CUS520,H3F","~","","","",""
+"","","D4","D_Schottky_Small","Device:D_Schottky_Small","CUS520,H3F:DIO_CUS520,H3F","~","","","",""
+"","","D5","D_Schottky","Device:D_Schottky","Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"","","D6","D_Schottky","Device:D_Schottky","Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"","","D7","D_Schottky","Device:D_Schottky","Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"","","D8","D_Schottky","Device:D_Schottky","Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"","","H1","MountingHole_Pad","Mechanical:MountingHole_Pad","MountingHole:MountingHole_4.3mm_M4_DIN965_Pad","~","","","",""
+"","","H2","MountingHole_Pad","Mechanical:MountingHole_Pad","MountingHole:MountingHole_4.3mm_M4_DIN965_Pad","~","","","",""
+"","","H3","MountingHole_Pad","Mechanical:MountingHole_Pad","MountingHole:MountingHole_4.3mm_M4_DIN965_Pad","~","","","",""
+"","","H4","MountingHole_Pad","Mechanical:MountingHole_Pad","MountingHole:MountingHole_4.3mm_M4_DIN965_Pad","~","","","",""
+"","","J1","Conn_01x04_Female","Connector:Conn_01x04_Female","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","","","",""
+"","","J2","Conn_01x04_Female","Connector:Conn_01x04_Female","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","","","",""
+"","","J3","Conn_01x04_Female","Connector:Conn_01x04_Female","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","","","",""
+"","","J4","Conn_01x04_Female","Connector:Conn_01x04_Female","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","","","",""
+"","","J5","Conn_01x04_Female","Connector:Conn_01x04_Female","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","","","",""
+"","","J6","Conn_01x03_Female","Connector:Conn_01x03_Female","Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical","~","","","",""
+"","","J7","Conn_01x03_Female","Connector:Conn_01x03_Female","Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical","~","","","",""
+"","","J8","Conn_01x03_Female","Connector:Conn_01x03_Female","Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical","~","","","",""
+"","","J9","Conn_01x03_Female","Connector:Conn_01x03_Female","Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical","~","","","",""
+"","","J10","S1","Connector:Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical","~","","","",""
+"","","J11","S2","Connector:Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical","~","","","",""
+"","","J12","S3","Connector:Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical","~","","","",""
+"","","J13","S4","Connector:Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical","~","","","",""
+"","","J14","S5","Connector:Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical","~","","","",""
+"","","J15","S6","Connector:Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical","~","","","",""
+"","","L1","L","Device:L","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"","","L2","4.7u","Device:L","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"","","L3","4.7u","Device:L","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"","","L4","4.7u","Device:L","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"","","L5","L","Device:L","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"","","L6","22u","Device:L","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"","","L7","22u","Device:L","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"","","L8","22u","Device:L","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"","","Q1","TQM110NB04CR_RLG","TQM110NB04CR_RLG:TQM110NB04CR_RLG","TQM110N:TRANS_TQM110NB04CR_RLG","","Taiwan Semiconductor","1.1 mm","A1910","Manufacturer Recommendations"
+"","","Q2","2N7002*","2N7002_:2N7002*","2N7002:SOT23","","","","",""
+"","","Q3","TQM110NB04CR_RLG","TQM110NB04CR_RLG:TQM110NB04CR_RLG","TQM110N:TRANS_TQM110NB04CR_RLG","","Taiwan Semiconductor","1.1 mm","A1910","Manufacturer Recommendations"
+"","","Q4","2N7002*","2N7002_:2N7002*","2N7002:SOT23","","","","",""
+"","","Q5","TQM110NB04CR_RLG","TQM110NB04CR_RLG:TQM110NB04CR_RLG","TQM110N:TRANS_TQM110NB04CR_RLG","","Taiwan Semiconductor","1.1 mm","A1910","Manufacturer Recommendations"
+"","","Q6","2N7002*","2N7002_:2N7002*","2N7002:SOT23","","","","",""
+"","","Q7","TQM110NB04CR_RLG","TQM110NB04CR_RLG:TQM110NB04CR_RLG","TQM110N:TRANS_TQM110NB04CR_RLG","","Taiwan Semiconductor","1.1 mm","A1910","Manufacturer Recommendations"
+"","","Q8","2N7002*","2N7002_:2N7002*","2N7002:SOT23","","","","",""
+"","","R1","R","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R2","R","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R3","R","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R4","R","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R5","R","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R6","2.5","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R7","16m","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R8","16m","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R9","63.4k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R10","10m","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R11","2.5","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R12","16m","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R13","16m","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R14","63.4k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R15","10m","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R16","2.5","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R17","16m","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R18","16m","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R19","63.4k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","R20","10m","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"","","TH1","Thermistor_NTC","Device:Thermistor_NTC","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","~","","","",""
+"","","TH2","Thermistor_NTC","Device:Thermistor_NTC","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","~","","","",""
+"","","TH3","Thermistor_NTC","Device:Thermistor_NTC","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","~","","","",""
+"","","TH4","Thermistor_NTC","Device:Thermistor_NTC","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","~","","","",""
+"","","U1","LTC4162","LTC4162IUFD:LTC4162","LTC4162:QFN50P500X400X80-29N","","","","",""
+"","","U2","LTC4162","LTC4162IUFD:LTC4162","LTC4162:QFN50P500X400X80-29N","","","","",""
+"","","U3","LTC4162","LTC4162IUFD:LTC4162","LTC4162:QFN50P500X400X80-29N","","","","",""
+"","","U4","LTC4162","LTC4162IUFD:LTC4162","LTC4162:QFN50P500X400X80-29N","","","","",""
+"","","U5","MAX710ESE+T","MAX710ESE_T:MAX710ESE+T","MAX710ESE:SOIC127P600X175-16N","","","","",""
+"","","U6","MAX710ESE+T","MAX710ESE_T:MAX710ESE+T","MAX710ESE:SOIC127P600X175-16N","","","","",""
+"","","U7","MAX710ESE+T","MAX710ESE_T:MAX710ESE+T","MAX710ESE:SOIC127P600X175-16N","","","","",""
+"","","U8","MAX710ESE+T","MAX710ESE_T:MAX710ESE+T","MAX710ESE:SOIC127P600X175-16N","","","","",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","MANUFACTURER","MAXIMUM_PACKAGE_HEIGHT","PARTREV","STANDARD"
+"1","8","BT1, BT2, BT3, BT4, BT5, BT6, BT7, BT8","254TR","254TR:254TR","254TR:BAT_254TR","","Keystone Electronics","17.215 mm","A","Manufacturer Recommendations"
+"2","7","C1, C2, C9, C16, C23, C29, C30","C_Polarized_US","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"3","8","C3, C4, C5, C6, C7, C12, C19, C26","C","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"4","3","C8, C15, C22","150u","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"5","3","C10, C17, C24","1u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"6","3","C11, C18, C25","4.7u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"7","6","C13, C14, C20, C21, C27, C28","10u","Device:C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"8","3","C31, C33, C35","4.7u","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"9","3","C32, C34, C36","100u","Device:C_Polarized_US","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","~","","","",""
+"10","4","D1, D2, D3, D4","D_Schottky_Small","Device:D_Schottky_Small","CUS520,H3F:DIO_CUS520,H3F","~","","","",""
+"11","4","D5, D6, D7, D8","D_Schottky","Device:D_Schottky","Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"12","4","H1, H2, H3, H4","MountingHole_Pad","Mechanical:MountingHole_Pad","MountingHole:MountingHole_4.3mm_M4_DIN965_Pad","~","","","",""
+"13","5","J1, J2, J3, J4, J5","Conn_01x04_Female","Connector:Conn_01x04_Female","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","","","",""
+"14","4","J6, J7, J8, J9","Conn_01x03_Female","Connector:Conn_01x03_Female","Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical","~","","","",""
+"15","1","J10","S1","Connector:Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical","~","","","",""
+"16","1","J11","S2","Connector:Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical","~","","","",""
+"17","1","J12","S3","Connector:Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical","~","","","",""
+"18","1","J13","S4","Connector:Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical","~","","","",""
+"19","1","J14","S5","Connector:Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical","~","","","",""
+"20","1","J15","S6","Connector:Conn_01x08_Female","Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical","~","","","",""
+"21","2","L1, L5","L","Device:L","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"22","3","L2, L3, L4","4.7u","Device:L","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"23","3","L6, L7, L8","22u","Device:L","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","~","","","",""
+"24","4","Q1, Q3, Q5, Q7","TQM110NB04CR_RLG","TQM110NB04CR_RLG:TQM110NB04CR_RLG","TQM110N:TRANS_TQM110NB04CR_RLG","","Taiwan Semiconductor","1.1 mm","A1910","Manufacturer Recommendations"
+"25","4","Q2, Q4, Q6, Q8","2N7002*","2N7002_:2N7002*","2N7002:SOT23","","","","",""
+"26","5","R1, R2, R3, R4, R5","R","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"27","3","R6, R11, R16","2.5","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"28","6","R7, R8, R12, R13, R17, R18","16m","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"29","3","R9, R14, R19","63.4k","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"30","3","R10, R15, R20","10m","Device:R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","~","","","",""
+"31","4","TH1, TH2, TH3, TH4","Thermistor_NTC","Device:Thermistor_NTC","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","~","","","",""
+"32","4","U1, U2, U3, U4","LTC4162","LTC4162IUFD:LTC4162","LTC4162:QFN50P500X400X80-29N","","","","",""
+"33","4","U5, U6, U7, U8","MAX710ESE+T","MAX710ESE_T:MAX710ESE+T","MAX710ESE:SOIC127P600X175-16N","","","","",""
