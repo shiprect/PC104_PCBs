@@ -1257,7 +1257,7 @@
     )
     (fp_circle (center 0 0) (end 3.75 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 4288e5c9-9ea7-4676-b68f-9ec62c82ff7a))
     (fp_circle (center 0 0) (end 4 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp e2ef6758-7431-4e33-a5bf-9cb5e82d4dab))
-    (pad "1" thru_hole circle (at 0 0) (size 7.5 7.5) (drill 4.3) (layers *.Cu *.Mask)
+    (pad "1" thru_hole circle (at 0 0) (size 7.5 7.5) (drill 4.3) (layers *.Cu *.Paste *.Mask)
       (net 2 "GND") (pinfunction "1") (pintype "input") (tstamp b94606f4-6da2-4670-b91c-9adbdae7dc3a))
   )
 
@@ -1417,7 +1417,7 @@
     )
     (fp_circle (center 0 0) (end 3.75 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp d4fdb75d-941d-44f7-8946-921bfeea256b))
     (fp_circle (center 0 0) (end 4 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp b95da1d3-7bcc-4e4f-a55c-21e254d3fbaf))
-    (pad "1" thru_hole circle (at 0 0) (size 7.5 7.5) (drill 4.3) (layers *.Cu *.Mask)
+    (pad "1" thru_hole circle (at 0 0) (size 7.5 7.5) (drill 4.3) (layers *.Cu *.Paste *.Mask)
       (net 2 "GND") (pinfunction "1") (pintype "input") (tstamp cc56570b-bf2b-47d3-8453-fd5cae6310a3))
   )
 
@@ -1585,7 +1585,7 @@
     )
     (fp_circle (center 0 0) (end 3.75 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 763f53f6-70cd-416e-abb0-445ab5657fc2))
     (fp_circle (center 0 0) (end 4 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 7e1e9364-8a8e-42a1-9965-9751e22a96e2))
-    (pad "1" thru_hole circle (at 0 0) (size 7.5 7.5) (drill 4.3) (layers *.Cu *.Mask)
+    (pad "1" thru_hole circle (at 0 0) (size 7.5 7.5) (drill 4.3) (layers *.Cu *.Paste *.Mask)
       (net 2 "GND") (pinfunction "1") (pintype "input") (tstamp 361633a3-c076-4e35-abb5-0cbb52c5d052))
   )
 
@@ -1654,7 +1654,7 @@
     )
     (fp_circle (center 0 0) (end 3.75 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 65378f41-da7e-4ad8-8237-e1ddc0caf217))
     (fp_circle (center 0 0) (end 4 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp a50f7dfa-0c3d-4772-b316-ae81d27f4bb9))
-    (pad "1" thru_hole circle (at 0 0) (size 7.5 7.5) (drill 4.3) (layers *.Cu *.Mask)
+    (pad "1" thru_hole circle (at 0 0) (size 7.5 7.5) (drill 4.3) (layers *.Cu *.Paste *.Mask)
       (net 2 "GND") (pinfunction "1") (pintype "input") (tstamp 2f4e99a5-f2a3-435e-a493-90a214ae89e5))
   )
 
