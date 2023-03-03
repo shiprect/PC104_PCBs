@@ -1,308 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<export version="D">
+<export version="E">
   <design>
-    <source>C:\Users\Luke\Desktop\SEDS\Cubesat_Power_Board\CubesatPwrBoard\CubesatPwrBoard.sch</source>
-    <date>7/15/2022 3:05:53 PM</date>
-    <tool>Eeschema (5.1.10)-1</tool>
+    <source>/home/khronos/Desktop/Power PCB/CubesatPwrBoard.kicad_sch</source>
+    <date>Wed 09 Nov 2022 06:24:06 PM CST</date>
+    <tool>Eeschema 6.0.7</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Cubesat Power Board</title>
         <company>SEDS TnTech - Luke Chapman</company>
         <rev>1</rev>
         <date>2022-07-09</date>
-        <source>CubesatPwrBoard.sch</source>
+        <source>CubesatPwrBoard.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Solar_Panels/" tstamps="/cf1aff82-9d0a-48d8-ab59-8548d6686ba1/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Solar_Panels.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Bat_Reg_1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Bat_Reg_1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Bat_Reg_1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Bat_Reg_1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/V_Reg_3.3_5V/" tstamps="/264a31e3-b860-47ed-a253-cc03c193f4db/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>V_Reg_3.3V.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/V_Reg_3.3_5V1/" tstamps="/ee95f572-2ce1-4849-aabc-fd8e359267bc/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>V_Reg_3.3V.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/V_Reg_3.3_5V2/" tstamps="/a1cf36e3-0997-44cf-8f48-cfbfdeef3847/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>V_Reg_3.3V.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/V_Reg_3.3_5V3/" tstamps="/8af403ab-d609-49ef-98a5-e5259d5f569c/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>V_Reg_3.3V.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
       </title_block>
     </sheet>
   </design>
   <components>
-    <comp ref="SC3">
-      <value>Solar_Cells</value>
-      <footprint>6915_1x2:691508110302</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CBA21F</tstamp>
-    </comp>
-    <comp ref="SC2">
-      <value>Solar_Cells</value>
-      <footprint>6915_1x2:691508110302</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CBC82B</tstamp>
-    </comp>
-    <comp ref="SC4">
-      <value>Solar_Cells</value>
-      <footprint>6915_1x2:691508110302</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CBD1B4</tstamp>
-    </comp>
-    <comp ref="SC7">
-      <value>Solar_Cells</value>
-      <footprint>6915_1x2:691508110302</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CBDDA8</tstamp>
-    </comp>
-    <comp ref="SC5">
-      <value>Solar_Cells</value>
-      <footprint>6915_1x2:691508110302</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CBE609</tstamp>
-    </comp>
-    <comp ref="SC6">
-      <value>Solar_Cells</value>
-      <footprint>6915_1x2:691508110302</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CBECC3</tstamp>
-    </comp>
-    <comp ref="SC8">
-      <value>Solar_Cells</value>
-      <footprint>6915_1x2:691508110302</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CBF4EC</tstamp>
-    </comp>
-    <comp ref="SC11">
-      <value>Solar_Cells</value>
-      <footprint>6915_1x2:691508110302</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CBFE31</tstamp>
-    </comp>
-    <comp ref="SC9">
-      <value>Solar_Cells</value>
-      <footprint>6915_1x2:691508110302</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CC042F</tstamp>
-    </comp>
-    <comp ref="SC12">
-      <value>Solar_Cells</value>
-      <footprint>6915_1x2:691508110302</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CC1292</tstamp>
-    </comp>
-    <comp ref="SC10">
-      <value>Solar_Cells</value>
-      <footprint>6915_1x2:691508110302</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CC18EC</tstamp>
-    </comp>
-    <comp ref="SC1">
-      <value>Solar_Cells</value>
-      <footprint>6915_1x2:691508110302</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CC752A</tstamp>
-    </comp>
-    <comp ref="D5">
-      <value>D_Schottky_Small</value>
-      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CCBF45</tstamp>
-    </comp>
-    <comp ref="D3">
-      <value>D_Schottky_Small</value>
-      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CCC7F5</tstamp>
-    </comp>
-    <comp ref="D1">
-      <value>D_Schottky_Small</value>
-      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CCD0E6</tstamp>
-    </comp>
-    <comp ref="D2">
-      <value>D_Schottky_Small</value>
-      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CCD485</tstamp>
-    </comp>
-    <comp ref="D4">
-      <value>D_Schottky_Small</value>
-      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CCEF8E</tstamp>
-    </comp>
-    <comp ref="D6">
-      <value>D_Schottky_Small</value>
-      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CCF924</tstamp>
-    </comp>
-    <comp ref="R1">
-      <value>2.5</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="R-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62F3D18E</tstamp>
-    </comp>
-    <comp ref="C1">
-      <value>150u</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="CP1-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62F4473C</tstamp>
-    </comp>
-    <comp ref="C2">
-      <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="CP1-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62F471C6</tstamp>
-    </comp>
-    <comp ref="Q1">
-      <value>TQM110NB04CR_RLG</value>
-      <footprint>TQM110N:TRANS_TQM110NB04CR_RLG</footprint>
-      <fields>
-        <field name="MANUFACTURER">Taiwan Semiconductor</field>
-        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
-        <field name="PARTREV">A1910</field>
-        <field name="STANDARD">Manufacturer Recommendations</field>
-      </fields>
-      <libsource lib="TQM110NB04CR_RLG" part="TQM110NB04CR_RLG" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CD477A</tstamp>
-    </comp>
-    <comp ref="R3">
-      <value>16m</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="R-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CE5AAE</tstamp>
-    </comp>
-    <comp ref="C6">
-      <value>10u</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="C-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CFCEB4</tstamp>
-    </comp>
-    <comp ref="L1">
-      <value>4.7u</value>
-      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="L-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62D004BD</tstamp>
-    </comp>
-    <comp ref="C5">
-      <value>22n</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="C-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62D0C998</tstamp>
-    </comp>
-    <comp ref="Q2">
-      <value>2N7002*</value>
-      <footprint>2N7002:SOT23</footprint>
-      <libsource lib="2N7002_" part="2N7002*" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CF496A</tstamp>
-    </comp>
-    <comp ref="R5">
-      <value>10m</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="R-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62D3BA71</tstamp>
-    </comp>
-    <comp ref="C4">
-      <value>4.7u</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="C-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62D699DE</tstamp>
-    </comp>
-    <comp ref="C3">
-      <value>1u</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="C-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62D6A813</tstamp>
-    </comp>
-    <comp ref="R4">
-      <value>63.4k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="R-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62D7806B</tstamp>
-    </comp>
-    <comp ref="TH1">
-      <value>Thermistor_NTC</value>
-      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Thermistor_NTC-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62D87848</tstamp>
-    </comp>
-    <comp ref="R2">
-      <value>16m</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="R-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62D92453</tstamp>
-    </comp>
-    <comp ref="J1">
-      <value>SystemLoad</value>
-      <footprint>Connector_Wire:SolderWirePad_1x01_SMD_5x10mm</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Conn_01x01_Female-Connector" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62E6BFA3</tstamp>
-    </comp>
-    <comp ref="C7">
-      <value>10u</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="C-Device" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62DD19CF</tstamp>
-    </comp>
     <comp ref="BT1">
       <value>254TR</value>
       <footprint>254TR:BAT_254TR</footprint>
@@ -313,86 +196,14 @@
         <field name="STANDARD">Manufacturer Recommendations</field>
       </fields>
       <libsource lib="254TR" part="254TR" description=""/>
+      <property name="MANUFACTURER" value="Keystone Electronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="17.215 mm"/>
+      <property name="PARTREV" value="A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>62F632DD</tstamp>
-    </comp>
-    <comp ref="BT3">
-      <value>254TR</value>
-      <footprint>254TR:BAT_254TR</footprint>
-      <fields>
-        <field name="MANUFACTURER">Keystone Electronics</field>
-        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
-        <field name="PARTREV">A</field>
-        <field name="STANDARD">Manufacturer Recommendations</field>
-      </fields>
-      <libsource lib="254TR" part="254TR" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62F6A9B2</tstamp>
-    </comp>
-    <comp ref="BT5">
-      <value>254TR</value>
-      <footprint>254TR:BAT_254TR</footprint>
-      <fields>
-        <field name="MANUFACTURER">Keystone Electronics</field>
-        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
-        <field name="PARTREV">A</field>
-        <field name="STANDARD">Manufacturer Recommendations</field>
-      </fields>
-      <libsource lib="254TR" part="254TR" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62F6AE17</tstamp>
-    </comp>
-    <comp ref="BT7">
-      <value>254TR</value>
-      <footprint>254TR:BAT_254TR</footprint>
-      <fields>
-        <field name="MANUFACTURER">Keystone Electronics</field>
-        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
-        <field name="PARTREV">A</field>
-        <field name="STANDARD">Manufacturer Recommendations</field>
-      </fields>
-      <libsource lib="254TR" part="254TR" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62F6B2EB</tstamp>
-    </comp>
-    <comp ref="BT8">
-      <value>254TR</value>
-      <footprint>254TR:BAT_254TR</footprint>
-      <fields>
-        <field name="MANUFACTURER">Keystone Electronics</field>
-        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
-        <field name="PARTREV">A</field>
-        <field name="STANDARD">Manufacturer Recommendations</field>
-      </fields>
-      <libsource lib="254TR" part="254TR" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62F6BA74</tstamp>
-    </comp>
-    <comp ref="BT6">
-      <value>254TR</value>
-      <footprint>254TR:BAT_254TR</footprint>
-      <fields>
-        <field name="MANUFACTURER">Keystone Electronics</field>
-        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
-        <field name="PARTREV">A</field>
-        <field name="STANDARD">Manufacturer Recommendations</field>
-      </fields>
-      <libsource lib="254TR" part="254TR" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62F6BF70</tstamp>
-    </comp>
-    <comp ref="BT4">
-      <value>254TR</value>
-      <footprint>254TR:BAT_254TR</footprint>
-      <fields>
-        <field name="MANUFACTURER">Keystone Electronics</field>
-        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
-        <field name="PARTREV">A</field>
-        <field name="STANDARD">Manufacturer Recommendations</field>
-      </fields>
-      <libsource lib="254TR" part="254TR" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62F6C546</tstamp>
+      <tstamps>00000000-0000-0000-0000-000062f632dd</tstamps>
     </comp>
     <comp ref="BT2">
       <value>254TR</value>
@@ -404,87 +215,1167 @@
         <field name="STANDARD">Manufacturer Recommendations</field>
       </fields>
       <libsource lib="254TR" part="254TR" description=""/>
+      <property name="MANUFACTURER" value="Keystone Electronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="17.215 mm"/>
+      <property name="PARTREV" value="A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>62F6C8E2</tstamp>
+      <tstamps>00000000-0000-0000-0000-000062f6c8e2</tstamps>
+    </comp>
+    <comp ref="BT3">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <property name="MANUFACTURER" value="Keystone Electronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="17.215 mm"/>
+      <property name="PARTREV" value="A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>345a22aa-680c-4f16-bdc4-344f13e5546b</tstamps>
+    </comp>
+    <comp ref="BT4">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <property name="MANUFACTURER" value="Keystone Electronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="17.215 mm"/>
+      <property name="PARTREV" value="A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35db4f12-37cd-4023-846b-a008118727fb</tstamps>
+    </comp>
+    <comp ref="BT5">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <property name="MANUFACTURER" value="Keystone Electronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="17.215 mm"/>
+      <property name="PARTREV" value="A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e75800fe-d8a4-459c-bf63-9a131c3dbbfa</tstamps>
+    </comp>
+    <comp ref="BT6">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <property name="MANUFACTURER" value="Keystone Electronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="17.215 mm"/>
+      <property name="PARTREV" value="A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60848235-ec29-44b1-a565-2cfc8e19dc9d</tstamps>
+    </comp>
+    <comp ref="BT7">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <property name="MANUFACTURER" value="Keystone Electronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="17.215 mm"/>
+      <property name="PARTREV" value="A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f37c1039-2859-45d6-8739-5b16f6b5b990</tstamps>
+    </comp>
+    <comp ref="BT8">
+      <value>254TR</value>
+      <footprint>254TR:BAT_254TR</footprint>
+      <fields>
+        <field name="MANUFACTURER">Keystone Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">17.215 mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="254TR" part="254TR" description=""/>
+      <property name="MANUFACTURER" value="Keystone Electronics"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="17.215 mm"/>
+      <property name="PARTREV" value="A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d97979f9-9239-49c4-8133-6e0f15a49b38</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55183a6f-5a92-4be4-aef5-7a3686a467e6</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>026e1f06-9c5e-47e7-b3bf-9478449dad32</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed444bca-e3d0-4854-acaa-22a44a7b765c</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f65443f-8d0d-4224-9311-0acc90dad622</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04_Female</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062d30c60</tstamps>
     </comp>
     <comp ref="J2">
-      <value>SystemLoad</value>
-      <footprint>Connector_Wire:SolderWirePad_1x01_SMD_5x10mm</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="CubesatPwrBoard-rescue" part="Conn_01x01_Female-Connector" description=""/>
+      <value>Conn_01x04_Female</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>6302C07E</tstamp>
+      <tstamps>6354c0a4-a843-4ea4-a048-e0ed5e0f07fb</tstamps>
     </comp>
     <comp ref="J3">
-      <value>I2C</value>
-      <footprint>6915_1x4:691508110304</footprint>
-      <datasheet>~</datasheet>
+      <value>Conn_01x04_Female</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamp>62D30C60</tstamp>
+      <tstamps>64b93e11-3a7c-486b-8ff1-75da9dc96bdb</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x04_Female</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd47932d-11b0-40b5-ac4f-805ade2e2e4d</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x04_Female</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b96eb06c-d64f-41eb-9978-ba5d1bbedec4</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x03_Female</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb516b0b-cae1-4427-a0b9-096ca5da2e10</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x03_Female</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c45e2ce-632c-4e1d-ab74-73bdad14d9af</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x03_Female</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5156cae7-9267-423b-905d-ea8c4e454f3c</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x03_Female</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0e5e0bf-7fde-4180-8176-c6537fe06e03</tstamps>
+    </comp>
+    <comp ref="TH1">
+      <value>Thermistor_NTC</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="Thermistor_NTC" description="Temperature dependent resistor, negative temperature coefficient"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91d800f4-4d65-4754-9208-2c5c20ae0527</tstamps>
+    </comp>
+    <comp ref="TH2">
+      <value>Thermistor_NTC</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="Thermistor_NTC" description="Temperature dependent resistor, negative temperature coefficient"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68bae96e-e883-4bbe-b8cd-966e6ecf8df6</tstamps>
+    </comp>
+    <comp ref="TH3">
+      <value>Thermistor_NTC</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="Thermistor_NTC" description="Temperature dependent resistor, negative temperature coefficient"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c3c59de-c4dc-4c58-8787-ce241d6449bc</tstamps>
+    </comp>
+    <comp ref="TH4">
+      <value>Thermistor_NTC</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="Thermistor_NTC" description="Temperature dependent resistor, negative temperature coefficient"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CubesatPwrBoard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d40b386d-1a81-49a3-ab51-eb45dfbf4ff5</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>D_Schottky_Small</value>
+      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
+      <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
+      <property name="Sheetname" value="Solar_Panels"/>
+      <property name="Sheetfile" value="Solar_Panels.kicad_sch"/>
+      <sheetpath names="/Solar_Panels/" tstamps="/cf1aff82-9d0a-48d8-ab59-8548d6686ba1/"/>
+      <tstamps>b655de71-2b72-4063-86af-da70a6efe69d</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D_Schottky_Small</value>
+      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
+      <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
+      <property name="Sheetname" value="Solar_Panels"/>
+      <property name="Sheetfile" value="Solar_Panels.kicad_sch"/>
+      <sheetpath names="/Solar_Panels/" tstamps="/cf1aff82-9d0a-48d8-ab59-8548d6686ba1/"/>
+      <tstamps>de9d0f40-71ec-441d-9537-dab35cabb764</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D_Schottky_Small</value>
+      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
+      <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
+      <property name="Sheetname" value="Solar_Panels"/>
+      <property name="Sheetfile" value="Solar_Panels.kicad_sch"/>
+      <sheetpath names="/Solar_Panels/" tstamps="/cf1aff82-9d0a-48d8-ab59-8548d6686ba1/"/>
+      <tstamps>a3eabcba-7ac0-4b33-b96f-1eee807aef39</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D_Schottky_Small</value>
+      <footprint>CUS520,H3F:DIO_CUS520,H3F</footprint>
+      <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
+      <property name="Sheetname" value="Solar_Panels"/>
+      <property name="Sheetfile" value="Solar_Panels.kicad_sch"/>
+      <sheetpath names="/Solar_Panels/" tstamps="/cf1aff82-9d0a-48d8-ab59-8548d6686ba1/"/>
+      <tstamps>cb72611a-0310-4519-b9ee-fba547bad041</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>S1</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Female" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Solar_Panels"/>
+      <property name="Sheetfile" value="Solar_Panels.kicad_sch"/>
+      <sheetpath names="/Solar_Panels/" tstamps="/cf1aff82-9d0a-48d8-ab59-8548d6686ba1/"/>
+      <tstamps>e6dc0141-26d6-4149-b18d-3c71f4483f5c</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>S2</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Female" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Solar_Panels"/>
+      <property name="Sheetfile" value="Solar_Panels.kicad_sch"/>
+      <sheetpath names="/Solar_Panels/" tstamps="/cf1aff82-9d0a-48d8-ab59-8548d6686ba1/"/>
+      <tstamps>ae3b314f-38b7-4741-aee3-7df58b1b5eb1</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>S3</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Female" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Solar_Panels"/>
+      <property name="Sheetfile" value="Solar_Panels.kicad_sch"/>
+      <sheetpath names="/Solar_Panels/" tstamps="/cf1aff82-9d0a-48d8-ab59-8548d6686ba1/"/>
+      <tstamps>d4850029-e8dd-490d-9938-1acf825dc541</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>S4</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Female" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Solar_Panels"/>
+      <property name="Sheetfile" value="Solar_Panels.kicad_sch"/>
+      <sheetpath names="/Solar_Panels/" tstamps="/cf1aff82-9d0a-48d8-ab59-8548d6686ba1/"/>
+      <tstamps>2b077f8c-b339-4230-8bd9-896aef8ef1b0</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>S5</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Female" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Solar_Panels"/>
+      <property name="Sheetfile" value="Solar_Panels.kicad_sch"/>
+      <sheetpath names="/Solar_Panels/" tstamps="/cf1aff82-9d0a-48d8-ab59-8548d6686ba1/"/>
+      <tstamps>9eece491-318d-4c60-9685-fb5a69959c14</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>S6</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Female" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Solar_Panels"/>
+      <property name="Sheetfile" value="Solar_Panels.kicad_sch"/>
+      <sheetpath names="/Solar_Panels/" tstamps="/cf1aff82-9d0a-48d8-ab59-8548d6686ba1/"/>
+      <tstamps>c244b973-b42c-47f7-b663-1bb22be80b65</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>C_Polarized_US</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>8b99398b-d928-4188-a113-e7a2dacce9cf</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C_Polarized_US</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>c8c6d269-aa41-4a59-b227-57f5b19fa8c5</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>2230af30-e8cf-4602-83ce-1a6f6ca29112</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>7feb28ce-0d3a-437d-97a8-b6c31c3f27e6</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>aa73050e-97b9-49c6-a496-387094cc11b4</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>6c3978f4-097f-4517-845d-26a46f89388b</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>48adbfd8-98fb-4f57-8fd2-5e2a59cf392a</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>L</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>54254e56-49de-4dec-9d99-39b5b42e46a2</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>TQM110NB04CR_RLG</value>
+      <footprint>TQM110N:TRANS_TQM110NB04CR_RLG</footprint>
+      <fields>
+        <field name="MANUFACTURER">Taiwan Semiconductor</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="PARTREV">A1910</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TQM110NB04CR_RLG" part="TQM110NB04CR_RLG" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1 mm"/>
+      <property name="PARTREV" value="A1910"/>
+      <property name="MANUFACTURER" value="Taiwan Semiconductor"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>b833d421-4950-449d-ae7a-8d1b0c63ec5d</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>2N7002*</value>
+      <footprint>2N7002:SOT23</footprint>
+      <libsource lib="2N7002_" part="2N7002*" description=""/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>596236f3-07bb-4e79-87a6-323f5b03f159</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>ef45d7b8-c314-47e7-aa8b-6b444f63c3d3</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>9bfa48dc-024c-418f-8443-e76103694deb</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>244377b9-1efc-4d0d-8359-7dfc38f23481</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>62502f69-0749-4cb9-849e-73c13515241a</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>f0679fe8-9ecd-466f-ab79-560aeefd94d5</tstamps>
     </comp>
     <comp ref="U1">
       <value>LTC4162</value>
       <footprint>LTC4162:QFN50P500X400X80-29N</footprint>
       <libsource lib="LTC4162IUFD" part="LTC4162" description=""/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62CB80FD</tstamp>
+      <property name="Sheetname" value="Bat_Reg_1"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_1/" tstamps="/3fd114ff-e33c-4b16-8730-59d4b28c2f50/"/>
+      <tstamps>0b4548a5-9940-4bf9-8779-8e73b8ae1830</tstamps>
     </comp>
-    <comp ref="J14">
-      <value>Test_Point</value>
-      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62E25038</tstamp>
+    <comp ref="C8">
+      <value>150u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>8b99398b-d928-4188-a113-e7a2dacce9cf</tstamps>
     </comp>
-    <comp ref="J10">
-      <value>Test_Point</value>
-      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62E2609E</tstamp>
+    <comp ref="C9">
+      <value>C_Polarized_US</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>c8c6d269-aa41-4a59-b227-57f5b19fa8c5</tstamps>
     </comp>
-    <comp ref="J6">
-      <value>Test_Point</value>
-      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62E26787</tstamp>
+    <comp ref="C10">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>2230af30-e8cf-4602-83ce-1a6f6ca29112</tstamps>
     </comp>
-    <comp ref="J7">
-      <value>Test_Point</value>
-      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62E27180</tstamp>
+    <comp ref="C11">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>7feb28ce-0d3a-437d-97a8-b6c31c3f27e6</tstamps>
     </comp>
-    <comp ref="J11">
-      <value>Test_Point</value>
-      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62E277EF</tstamp>
+    <comp ref="C12">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>aa73050e-97b9-49c6-a496-387094cc11b4</tstamps>
     </comp>
-    <comp ref="J15">
-      <value>Test_Point</value>
-      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62E27F04</tstamp>
+    <comp ref="C13">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>6c3978f4-097f-4517-845d-26a46f89388b</tstamps>
     </comp>
-    <comp ref="J16">
-      <value>Test_Point_GND</value>
-      <footprint>TestPoint:TestPoint_Pad_2.0x2.0mm</footprint>
-      <datasheet>~</datasheet>
-      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamp>62E7BB58</tstamp>
+    <comp ref="C14">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>48adbfd8-98fb-4f57-8fd2-5e2a59cf392a</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>4.7u</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>54254e56-49de-4dec-9d99-39b5b42e46a2</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>TQM110NB04CR_RLG</value>
+      <footprint>TQM110N:TRANS_TQM110NB04CR_RLG</footprint>
+      <fields>
+        <field name="MANUFACTURER">Taiwan Semiconductor</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="PARTREV">A1910</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TQM110NB04CR_RLG" part="TQM110NB04CR_RLG" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1 mm"/>
+      <property name="PARTREV" value="A1910"/>
+      <property name="MANUFACTURER" value="Taiwan Semiconductor"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>b833d421-4950-449d-ae7a-8d1b0c63ec5d</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>2N7002*</value>
+      <footprint>2N7002:SOT23</footprint>
+      <libsource lib="2N7002_" part="2N7002*" description=""/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>596236f3-07bb-4e79-87a6-323f5b03f159</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>2.5</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>ef45d7b8-c314-47e7-aa8b-6b444f63c3d3</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>16m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>9bfa48dc-024c-418f-8443-e76103694deb</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>16m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>244377b9-1efc-4d0d-8359-7dfc38f23481</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>63.4k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>62502f69-0749-4cb9-849e-73c13515241a</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>f0679fe8-9ecd-466f-ab79-560aeefd94d5</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LTC4162</value>
+      <footprint>LTC4162:QFN50P500X400X80-29N</footprint>
+      <libsource lib="LTC4162IUFD" part="LTC4162" description=""/>
+      <property name="Sheetname" value="Bat_Reg_2"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_2/" tstamps="/48dfdeea-6c8d-41e0-8225-3e132bb7dd5e/"/>
+      <tstamps>0b4548a5-9940-4bf9-8779-8e73b8ae1830</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>150u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>8b99398b-d928-4188-a113-e7a2dacce9cf</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>C_Polarized_US</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>c8c6d269-aa41-4a59-b227-57f5b19fa8c5</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>2230af30-e8cf-4602-83ce-1a6f6ca29112</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>7feb28ce-0d3a-437d-97a8-b6c31c3f27e6</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>aa73050e-97b9-49c6-a496-387094cc11b4</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>6c3978f4-097f-4517-845d-26a46f89388b</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>48adbfd8-98fb-4f57-8fd2-5e2a59cf392a</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>4.7u</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>54254e56-49de-4dec-9d99-39b5b42e46a2</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>TQM110NB04CR_RLG</value>
+      <footprint>TQM110N:TRANS_TQM110NB04CR_RLG</footprint>
+      <fields>
+        <field name="MANUFACTURER">Taiwan Semiconductor</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="PARTREV">A1910</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TQM110NB04CR_RLG" part="TQM110NB04CR_RLG" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1 mm"/>
+      <property name="PARTREV" value="A1910"/>
+      <property name="MANUFACTURER" value="Taiwan Semiconductor"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>b833d421-4950-449d-ae7a-8d1b0c63ec5d</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>2N7002*</value>
+      <footprint>2N7002:SOT23</footprint>
+      <libsource lib="2N7002_" part="2N7002*" description=""/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>596236f3-07bb-4e79-87a6-323f5b03f159</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>2.5</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>ef45d7b8-c314-47e7-aa8b-6b444f63c3d3</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>16m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>9bfa48dc-024c-418f-8443-e76103694deb</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>16m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>244377b9-1efc-4d0d-8359-7dfc38f23481</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>63.4k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>62502f69-0749-4cb9-849e-73c13515241a</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>f0679fe8-9ecd-466f-ab79-560aeefd94d5</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LTC4162</value>
+      <footprint>LTC4162:QFN50P500X400X80-29N</footprint>
+      <libsource lib="LTC4162IUFD" part="LTC4162" description=""/>
+      <property name="Sheetname" value="Bat_Reg_3"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_3/" tstamps="/5758088c-06eb-4f39-8d11-5015bb01b0cf/"/>
+      <tstamps>0b4548a5-9940-4bf9-8779-8e73b8ae1830</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>150u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>8b99398b-d928-4188-a113-e7a2dacce9cf</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>C_Polarized_US</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>c8c6d269-aa41-4a59-b227-57f5b19fa8c5</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>2230af30-e8cf-4602-83ce-1a6f6ca29112</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>7feb28ce-0d3a-437d-97a8-b6c31c3f27e6</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>C</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>aa73050e-97b9-49c6-a496-387094cc11b4</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>6c3978f4-097f-4517-845d-26a46f89388b</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>48adbfd8-98fb-4f57-8fd2-5e2a59cf392a</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>4.7u</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>54254e56-49de-4dec-9d99-39b5b42e46a2</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>TQM110NB04CR_RLG</value>
+      <footprint>TQM110N:TRANS_TQM110NB04CR_RLG</footprint>
+      <fields>
+        <field name="MANUFACTURER">Taiwan Semiconductor</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.1 mm</field>
+        <field name="PARTREV">A1910</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TQM110NB04CR_RLG" part="TQM110NB04CR_RLG" description=""/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.1 mm"/>
+      <property name="PARTREV" value="A1910"/>
+      <property name="MANUFACTURER" value="Taiwan Semiconductor"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>b833d421-4950-449d-ae7a-8d1b0c63ec5d</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>2N7002*</value>
+      <footprint>2N7002:SOT23</footprint>
+      <libsource lib="2N7002_" part="2N7002*" description=""/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>596236f3-07bb-4e79-87a6-323f5b03f159</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>2.5</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>ef45d7b8-c314-47e7-aa8b-6b444f63c3d3</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>16m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>9bfa48dc-024c-418f-8443-e76103694deb</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>16m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>244377b9-1efc-4d0d-8359-7dfc38f23481</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>63.4k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>62502f69-0749-4cb9-849e-73c13515241a</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10m</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>f0679fe8-9ecd-466f-ab79-560aeefd94d5</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>LTC4162</value>
+      <footprint>LTC4162:QFN50P500X400X80-29N</footprint>
+      <libsource lib="LTC4162IUFD" part="LTC4162" description=""/>
+      <property name="Sheetname" value="Bat_Reg_4"/>
+      <property name="Sheetfile" value="Bat_Reg_1.kicad_sch"/>
+      <sheetpath names="/Bat_Reg_4/" tstamps="/c736b2b0-d16e-48b9-b234-a025b7abd853/"/>
+      <tstamps>0b4548a5-9940-4bf9-8779-8e73b8ae1830</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>C_Polarized_US</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V/" tstamps="/264a31e3-b860-47ed-a253-cc03c193f4db/"/>
+      <tstamps>9c974405-79fe-4d5b-b660-4ea0cfe6f3d2</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>C_Polarized_US</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V/" tstamps="/264a31e3-b860-47ed-a253-cc03c193f4db/"/>
+      <tstamps>4d756d41-4267-42c4-ad6a-517dd0de64c2</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V/" tstamps="/264a31e3-b860-47ed-a253-cc03c193f4db/"/>
+      <tstamps>9d6fbe79-75d7-4557-a38a-96f44bb9b6dd</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>L</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V/" tstamps="/264a31e3-b860-47ed-a253-cc03c193f4db/"/>
+      <tstamps>a34fde5d-e864-4096-b3a3-4ef036cc4ab8</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>MAX710ESE+T</value>
+      <footprint>MAX710ESE:SOIC127P600X175-16N</footprint>
+      <libsource lib="MAX710ESE_T" part="MAX710ESE+T" description=""/>
+      <property name="Sheetname" value="V_Reg_3.3_5V"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V/" tstamps="/264a31e3-b860-47ed-a253-cc03c193f4db/"/>
+      <tstamps>bc8135d5-fd4c-4598-a1c8-44e6c70f6fca</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V1"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V1/" tstamps="/ee95f572-2ce1-4849-aabc-fd8e359267bc/"/>
+      <tstamps>9c974405-79fe-4d5b-b660-4ea0cfe6f3d2</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V1"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V1/" tstamps="/ee95f572-2ce1-4849-aabc-fd8e359267bc/"/>
+      <tstamps>4d756d41-4267-42c4-ad6a-517dd0de64c2</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V1"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V1/" tstamps="/ee95f572-2ce1-4849-aabc-fd8e359267bc/"/>
+      <tstamps>9d6fbe79-75d7-4557-a38a-96f44bb9b6dd</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>22u</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V1"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V1/" tstamps="/ee95f572-2ce1-4849-aabc-fd8e359267bc/"/>
+      <tstamps>a34fde5d-e864-4096-b3a3-4ef036cc4ab8</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>MAX710ESE+T</value>
+      <footprint>MAX710ESE:SOIC127P600X175-16N</footprint>
+      <libsource lib="MAX710ESE_T" part="MAX710ESE+T" description=""/>
+      <property name="Sheetname" value="V_Reg_3.3_5V1"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V1/" tstamps="/ee95f572-2ce1-4849-aabc-fd8e359267bc/"/>
+      <tstamps>bc8135d5-fd4c-4598-a1c8-44e6c70f6fca</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V2"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V2/" tstamps="/a1cf36e3-0997-44cf-8f48-cfbfdeef3847/"/>
+      <tstamps>9c974405-79fe-4d5b-b660-4ea0cfe6f3d2</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V2"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V2/" tstamps="/a1cf36e3-0997-44cf-8f48-cfbfdeef3847/"/>
+      <tstamps>4d756d41-4267-42c4-ad6a-517dd0de64c2</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V2"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V2/" tstamps="/a1cf36e3-0997-44cf-8f48-cfbfdeef3847/"/>
+      <tstamps>9d6fbe79-75d7-4557-a38a-96f44bb9b6dd</tstamps>
+    </comp>
+    <comp ref="L7">
+      <value>22u</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V2"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V2/" tstamps="/a1cf36e3-0997-44cf-8f48-cfbfdeef3847/"/>
+      <tstamps>a34fde5d-e864-4096-b3a3-4ef036cc4ab8</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>MAX710ESE+T</value>
+      <footprint>MAX710ESE:SOIC127P600X175-16N</footprint>
+      <libsource lib="MAX710ESE_T" part="MAX710ESE+T" description=""/>
+      <property name="Sheetname" value="V_Reg_3.3_5V2"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V2/" tstamps="/a1cf36e3-0997-44cf-8f48-cfbfdeef3847/"/>
+      <tstamps>bc8135d5-fd4c-4598-a1c8-44e6c70f6fca</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V3"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V3/" tstamps="/8af403ab-d609-49ef-98a5-e5259d5f569c/"/>
+      <tstamps>9c974405-79fe-4d5b-b660-4ea0cfe6f3d2</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>100u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V3"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V3/" tstamps="/8af403ab-d609-49ef-98a5-e5259d5f569c/"/>
+      <tstamps>4d756d41-4267-42c4-ad6a-517dd0de64c2</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V3"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V3/" tstamps="/8af403ab-d609-49ef-98a5-e5259d5f569c/"/>
+      <tstamps>9d6fbe79-75d7-4557-a38a-96f44bb9b6dd</tstamps>
+    </comp>
+    <comp ref="L8">
+      <value>22u</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value="V_Reg_3.3_5V3"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V3/" tstamps="/8af403ab-d609-49ef-98a5-e5259d5f569c/"/>
+      <tstamps>a34fde5d-e864-4096-b3a3-4ef036cc4ab8</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>MAX710ESE+T</value>
+      <footprint>MAX710ESE:SOIC127P600X175-16N</footprint>
+      <libsource lib="MAX710ESE_T" part="MAX710ESE+T" description=""/>
+      <property name="Sheetname" value="V_Reg_3.3_5V3"/>
+      <property name="Sheetfile" value="V_Reg_3.3V.kicad_sch"/>
+      <sheetpath names="/V_Reg_3.3_5V3/" tstamps="/8af403ab-d609-49ef-98a5-e5259d5f569c/"/>
+      <tstamps>bc8135d5-fd4c-4598-a1c8-44e6c70f6fca</tstamps>
     </comp>
   </components>
   <libparts>
@@ -499,8 +1390,8 @@
         <field name="STANDARD">Manufacturer Recommendations</field>
       </fields>
       <pins>
-        <pin num="P1_1" name="~" type="passive"/>
-        <pin num="P1_2" name="~" type="passive"/>
+        <pin num="P1_1" name="" type="passive"/>
+        <pin num="P1_2" name="" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="2N7002_" part="2N7002*">
@@ -510,23 +1401,26 @@
         <field name="Footprint">SOT23</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
-        <pin num="3" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Connector" part="Conn_01x01_Female">
-      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+    <libpart lib="Connector" part="Conn_01x03_Female">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
       <docs>~</docs>
       <footprints>
-        <fp>Connector*:*</fp>
+        <fp>Connector*:*_1x??_*</fp>
       </footprints>
       <fields>
         <field name="Reference">J</field>
-        <field name="Value">Conn_01x01_Female</field>
+        <field name="Value">Conn_01x03_Female</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
         <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Connector" part="Conn_01x04_Female">
@@ -538,6 +1432,7 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">Conn_01x04_Female</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
         <pin num="1" name="Pin_1" type="passive"/>
@@ -546,45 +1441,63 @@
         <pin num="4" name="Pin_4" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="CubesatPwrBoard-rescue" part="C-Device">
+    <libpart lib="Connector" part="Conn_01x08_Female">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
       <footprints>
         <fp>C_*</fp>
       </footprints>
       <fields>
         <field name="Reference">C</field>
-        <field name="Value">C-Device</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="CubesatPwrBoard-rescue" part="CP1-Device">
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
       <footprints>
         <fp>CP_*</fp>
       </footprints>
       <fields>
         <field name="Reference">C</field>
-        <field name="Value">CP1-Device</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="CubesatPwrBoard-rescue" part="Conn_01x01_Female-Connector">
-      <footprints>
-        <fp>Connector*:*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">Conn_01x01_Female-Connector</field>
-      </fields>
-      <pins>
-        <pin num="1" name="Pin_1" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="CubesatPwrBoard-rescue" part="D_Schottky_Small-Device">
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
       <footprints>
         <fp>TO-???*</fp>
         <fp>*_Diode_*</fp>
@@ -593,14 +1506,36 @@
       </footprints>
       <fields>
         <field name="Reference">D</field>
-        <field name="Value">D_Schottky_Small-Device</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
         <pin num="1" name="K" type="passive"/>
         <pin num="2" name="A" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="CubesatPwrBoard-rescue" part="L-Device">
+    <libpart lib="Device" part="D_Schottky_Small">
+      <description>Schottky diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
       <footprints>
         <fp>Choke_*</fp>
         <fp>*Coil*</fp>
@@ -609,37 +1544,33 @@
       </footprints>
       <fields>
         <field name="Reference">L</field>
-        <field name="Value">L-Device</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="CubesatPwrBoard-rescue" part="R-Device">
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
       <footprints>
         <fp>R_*</fp>
       </footprints>
       <fields>
         <field name="Reference">R</field>
-        <field name="Value">R-Device</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="CubesatPwrBoard-rescue" part="Solar_Cells-Device">
-      <fields>
-        <field name="Reference">SC</field>
-        <field name="Value">Solar_Cells-Device</field>
-      </fields>
-      <pins>
-        <pin num="1" name="+" type="passive"/>
-        <pin num="2" name="-" type="passive"/>
-      </pins>
-    </libpart>
-    <libpart lib="CubesatPwrBoard-rescue" part="Thermistor_NTC-Device">
+    <libpart lib="Device" part="Thermistor_NTC">
+      <description>Temperature dependent resistor, negative temperature coefficient</description>
+      <docs>~</docs>
       <footprints>
         <fp>*NTC*</fp>
         <fp>*Thermistor*</fp>
@@ -650,11 +1581,12 @@
       </footprints>
       <fields>
         <field name="Reference">TH</field>
-        <field name="Value">Thermistor_NTC-Device</field>
+        <field name="Value">Thermistor_NTC</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="LTC4162IUFD" part="LTC4162">
@@ -694,6 +1626,46 @@
         <pin num="29" name="AGND" type="input"/>
       </pins>
     </libpart>
+    <libpart lib="MAX710ESE_T" part="MAX710ESE+T">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX710ESE+T</field>
+        <field name="Footprint">SOIC127P600X175-16N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="LX" type="bidirectional"/>
+        <pin num="2" name="PGND" type="bidirectional"/>
+        <pin num="3" name="ILIM" type="input"/>
+        <pin num="4" name="~{SHDN}" type="input"/>
+        <pin num="5" name="~{STBY}" type="input"/>
+        <pin num="6" name="3/~{5}" type="bidirectional"/>
+        <pin num="7" name="N/~{E}" type="bidirectional"/>
+        <pin num="8" name="LBO" type="no_connect"/>
+        <pin num="9" name="OUT" type="output"/>
+        <pin num="10" name="LBI-" type="bidirectional"/>
+        <pin num="11" name="LBI+" type="bidirectional"/>
+        <pin num="12" name="PS" type="input"/>
+        <pin num="13" name="REF" type="output"/>
+        <pin num="14" name="GND" type="bidirectional"/>
+        <pin num="15" name="PGND" type="bidirectional"/>
+        <pin num="16" name="LX" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
     <libpart lib="TQM110NB04CR_RLG" part="TQM110NB04CR_RLG">
       <fields>
         <field name="Reference">Q</field>
@@ -705,216 +1677,738 @@
         <field name="STANDARD">Manufacturer Recommendations</field>
       </fields>
       <pins>
-        <pin num="1" name="~" type="passive"/>
-        <pin num="2" name="~" type="passive"/>
-        <pin num="3" name="~" type="passive"/>
-        <pin num="4" name="~" type="passive"/>
-        <pin num="5_8" name="~" type="passive"/>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5_8" name="" type="passive"/>
       </pins>
     </libpart>
   </libparts>
   <libraries>
     <library logical="254TR">
-      <uri>C:\Users\Luke\Desktop\SEDS\Cubesat_Power_Board\CubesatPwrBoard/Libraries/254TR/254TR.lib</uri>
+      <uri>/home/khronos/Desktop/Power PCB/Libraries/254TR/254TR.kicad_sym</uri>
     </library>
     <library logical="2N7002_">
-      <uri>C:\Users\Luke\Desktop\SEDS\Cubesat_Power_Board\CubesatPwrBoard/Libraries/2N7002/2N7002_.lib</uri>
+      <uri>/home/khronos/Desktop/Power PCB/Libraries/2N7002/2N7002_.kicad_sym</uri>
     </library>
     <library logical="Connector">
-      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
     </library>
-    <library logical="CubesatPwrBoard-rescue">
-      <uri>C:\Users\Luke\Desktop\SEDS\Cubesat_Power_Board\CubesatPwrBoard/CubesatPwrBoard-rescue.lib</uri>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
     </library>
     <library logical="LTC4162IUFD">
-      <uri>C:\Users\Luke\Desktop\SEDS\Cubesat_Power_Board\CubesatPwrBoard/Libraries/LTC4162/LTC4162IUFD.lib</uri>
+      <uri>/home/khronos/Desktop/Power PCB/Libraries/LTC4162/LTC4162IUFD.kicad_sym</uri>
+    </library>
+    <library logical="MAX710ESE_T">
+      <uri>/home/khronos/Desktop/Power PCB/Libraries/MAX710ESE/MAX710ESE_T.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
     </library>
     <library logical="TQM110NB04CR_RLG">
-      <uri>C:\Users\Luke\Desktop\SEDS\Cubesat_Power_Board\CubesatPwrBoard/Libraries/TQM110N/TQM110NB04CR_RLG.lib</uri>
+      <uri>/home/khronos/Desktop/Power PCB/Libraries/TQM110N/TQM110NB04CR_RLG.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
-    <net code="1" name="Net-(R2-Pad2)">
-      <node ref="TH1" pin="1"/>
-      <node ref="R2" pin="2"/>
-      <node ref="U1" pin="10"/>
+    <net code="1" name="/Bat_Reg_1/DVCC">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="DVCC" pintype="input"/>
     </net>
-    <net code="2" name="GND">
-      <node ref="BT2" pin="P1_2"/>
-      <node ref="C3" pin="1"/>
-      <node ref="BT2" pin="P1_1"/>
-      <node ref="BT4" pin="P1_2"/>
-      <node ref="SC10" pin="2"/>
-      <node ref="BT4" pin="P1_1"/>
-      <node ref="SC8" pin="2"/>
-      <node ref="R4" pin="1"/>
-      <node ref="BT6" pin="P1_2"/>
-      <node ref="BT6" pin="P1_1"/>
-      <node ref="SC1" pin="2"/>
-      <node ref="J16" pin="1"/>
-      <node ref="U1" pin="29"/>
-      <node ref="C4" pin="2"/>
-      <node ref="SC3" pin="2"/>
-      <node ref="SC2" pin="2"/>
-      <node ref="SC4" pin="2"/>
-      <node ref="SC7" pin="2"/>
-      <node ref="SC5" pin="2"/>
-      <node ref="SC6" pin="2"/>
-      <node ref="SC11" pin="2"/>
-      <node ref="SC9" pin="2"/>
-      <node ref="SC12" pin="2"/>
-      <node ref="BT8" pin="P1_2"/>
-      <node ref="TH1" pin="2"/>
-      <node ref="C7" pin="2"/>
-      <node ref="BT8" pin="P1_1"/>
-      <node ref="C6" pin="2"/>
-      <node ref="C1" pin="2"/>
-      <node ref="C2" pin="2"/>
-      <node ref="U1" pin="16"/>
-      <node ref="U1" pin="17"/>
-      <node ref="U1" pin="23"/>
-      <node ref="U1" pin="24"/>
+    <net code="2" name="/Bat_Reg_1/SCL">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="SCL" pintype="input"/>
     </net>
-    <net code="3" name="Net-(R2-Pad1)">
-      <node ref="R2" pin="1"/>
-      <node ref="U1" pin="9"/>
+    <net code="3" name="/Bat_Reg_1/SDA">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="SDA" pintype="input"/>
     </net>
-    <net code="4" name="Net-(C4-Pad1)">
-      <node ref="U1" pin="2"/>
-      <node ref="U1" pin="18"/>
-      <node ref="C4" pin="1"/>
+    <net code="4" name="/Bat_Reg_1/TH">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="TH1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="NTC" pintype="input"/>
     </net>
-    <net code="5" name="Net-(L1-Pad2)">
-      <node ref="L1" pin="2"/>
-      <node ref="R5" pin="2"/>
-      <node ref="U1" pin="21"/>
-      <node ref="Q2" pin="2"/>
+    <net code="5" name="/Bat_Reg_1/VIN">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VIN" pintype="input"/>
     </net>
-    <net code="6" name="Net-(R4-Pad2)">
-      <node ref="R4" pin="2"/>
-      <node ref="U1" pin="11"/>
+    <net code="6" name="/Bat_Reg_1/V_Bat">
+      <node ref="BT1" pin="P1_1" pintype="passive"/>
+      <node ref="BT1" pin="P1_2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="L5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="BATSENS+" pintype="input"/>
+      <node ref="U1" pin="20" pinfunction="CSN" pintype="input"/>
     </net>
-    <net code="7" name="Net-(C3-Pad2)">
-      <node ref="U1" pin="8"/>
-      <node ref="C3" pin="2"/>
+    <net code="7" name="/Bat_Reg_1/{slash}SMBALERT">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="/SMBALERT" pintype="input"/>
     </net>
-    <net code="8" name="Net-(J3-Pad1)">
-      <node ref="U1" pin="15"/>
-      <node ref="J3" pin="1"/>
+    <net code="8" name="/Bat_Reg_2/DVCC">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="DVCC" pintype="input"/>
     </net>
-    <net code="9" name="Net-(J3-Pad2)">
-      <node ref="J3" pin="2"/>
-      <node ref="U1" pin="14"/>
+    <net code="9" name="/Bat_Reg_2/SCL">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="SCL" pintype="input"/>
     </net>
-    <net code="10" name="Net-(D6-Pad2)">
-      <node ref="J15" pin="1"/>
-      <node ref="SC11" pin="1"/>
-      <node ref="D6" pin="2"/>
-      <node ref="SC12" pin="1"/>
+    <net code="10" name="/Bat_Reg_2/SDA">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="SDA" pintype="input"/>
     </net>
-    <net code="11" name="Net-(D4-Pad2)">
-      <node ref="SC7" pin="1"/>
-      <node ref="SC8" pin="1"/>
-      <node ref="D4" pin="2"/>
-      <node ref="J11" pin="1"/>
+    <net code="11" name="/Bat_Reg_2/TH">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="TH2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="NTC" pintype="input"/>
     </net>
-    <net code="12" name="Net-(D2-Pad2)">
-      <node ref="SC4" pin="1"/>
-      <node ref="SC3" pin="1"/>
-      <node ref="D2" pin="2"/>
-      <node ref="J7" pin="1"/>
+    <net code="12" name="/Bat_Reg_2/VIN">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q3" pin="1" pintype="passive"/>
+      <node ref="Q3" pin="2" pintype="passive"/>
+      <node ref="Q3" pin="3" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="VIN" pintype="input"/>
     </net>
-    <net code="13" name="Net-(D3-Pad2)">
-      <node ref="SC5" pin="1"/>
-      <node ref="J10" pin="1"/>
-      <node ref="SC6" pin="1"/>
-      <node ref="D3" pin="2"/>
+    <net code="13" name="/Bat_Reg_2/V_Bat">
+      <node ref="BT3" pin="P1_1" pintype="passive"/>
+      <node ref="BT3" pin="P1_2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="L6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="BATSENS+" pintype="input"/>
+      <node ref="U2" pin="20" pinfunction="CSN" pintype="input"/>
     </net>
-    <net code="14" name="Net-(J3-Pad4)">
-      <node ref="J3" pin="4"/>
-      <node ref="U1" pin="12"/>
+    <net code="14" name="/Bat_Reg_2/{slash}SMBALERT">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="/SMBALERT" pintype="input"/>
     </net>
-    <net code="15" name="Net-(J3-Pad3)">
-      <node ref="U1" pin="13"/>
-      <node ref="J3" pin="3"/>
+    <net code="15" name="/Bat_Reg_3/DVCC">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="DVCC" pintype="input"/>
     </net>
-    <net code="16" name="Net-(BT1-PadP1_1)">
-      <node ref="R5" pin="1"/>
-      <node ref="J1" pin="1"/>
-      <node ref="BT3" pin="P1_2"/>
-      <node ref="BT5" pin="P1_1"/>
-      <node ref="BT7" pin="P1_1"/>
-      <node ref="BT7" pin="P1_2"/>
-      <node ref="J2" pin="1"/>
-      <node ref="BT5" pin="P1_2"/>
-      <node ref="C7" pin="1"/>
-      <node ref="U1" pin="19"/>
-      <node ref="U1" pin="20"/>
-      <node ref="BT3" pin="P1_1"/>
-      <node ref="BT1" pin="P1_1"/>
-      <node ref="BT1" pin="P1_2"/>
+    <net code="16" name="/Bat_Reg_3/SCL">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="SCL" pintype="input"/>
     </net>
-    <net code="17" name="Net-(D1-Pad2)">
-      <node ref="SC1" pin="1"/>
-      <node ref="SC2" pin="1"/>
-      <node ref="J6" pin="1"/>
-      <node ref="D1" pin="2"/>
+    <net code="17" name="/Bat_Reg_3/SDA">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="SDA" pintype="input"/>
     </net>
-    <net code="18" name="Net-(Q2-Pad1)">
-      <node ref="Q2" pin="1"/>
-      <node ref="U1" pin="22"/>
+    <net code="18" name="/Bat_Reg_3/TH">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="TH3" pin="1" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="NTC" pintype="input"/>
     </net>
-    <net code="19" name="Net-(D5-Pad2)">
-      <node ref="D5" pin="2"/>
-      <node ref="J14" pin="1"/>
-      <node ref="SC9" pin="1"/>
-      <node ref="SC10" pin="1"/>
+    <net code="19" name="/Bat_Reg_3/VIN">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q5" pin="1" pintype="passive"/>
+      <node ref="Q5" pin="2" pintype="passive"/>
+      <node ref="Q5" pin="3" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="VIN" pintype="input"/>
     </net>
-    <net code="20" name="Net-(C2-Pad1)">
-      <node ref="D5" pin="1"/>
-      <node ref="C2" pin="1"/>
-      <node ref="D3" pin="1"/>
-      <node ref="D1" pin="1"/>
-      <node ref="R1" pin="1"/>
-      <node ref="D2" pin="1"/>
-      <node ref="D4" pin="1"/>
-      <node ref="D6" pin="1"/>
-      <node ref="Q1" pin="1"/>
-      <node ref="Q1" pin="2"/>
-      <node ref="Q1" pin="3"/>
-      <node ref="U1" pin="7"/>
+    <net code="20" name="/Bat_Reg_3/V_Bat">
+      <node ref="BT5" pin="P1_1" pintype="passive"/>
+      <node ref="BT5" pin="P1_2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="L7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U3" pin="19" pinfunction="BATSENS+" pintype="input"/>
+      <node ref="U3" pin="20" pinfunction="CSN" pintype="input"/>
     </net>
-    <net code="21" name="Net-(C5-Pad2)">
-      <node ref="U1" pin="25"/>
-      <node ref="U1" pin="26"/>
-      <node ref="C5" pin="2"/>
-      <node ref="L1" pin="1"/>
+    <net code="21" name="/Bat_Reg_3/{slash}SMBALERT">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="/SMBALERT" pintype="input"/>
     </net>
-    <net code="22" name="Net-(C6-Pad1)">
-      <node ref="R3" pin="1"/>
-      <node ref="C6" pin="1"/>
-      <node ref="U1" pin="27"/>
-      <node ref="U1" pin="28"/>
-      <node ref="U1" pin="3"/>
-      <node ref="Q2" pin="3"/>
-      <node ref="U1" pin="4"/>
+    <net code="22" name="/Bat_Reg_4/DVCC">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="15" pinfunction="DVCC" pintype="input"/>
     </net>
-    <net code="23" name="Net-(Q1-Pad5_8)">
-      <node ref="U1" pin="5"/>
-      <node ref="R3" pin="2"/>
-      <node ref="Q1" pin="5_8"/>
+    <net code="23" name="/Bat_Reg_4/SCL">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="SCL" pintype="input"/>
     </net>
-    <net code="24" name="Net-(C5-Pad1)">
-      <node ref="U1" pin="1"/>
-      <node ref="C5" pin="1"/>
+    <net code="24" name="/Bat_Reg_4/SDA">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="SDA" pintype="input"/>
     </net>
-    <net code="25" name="Net-(C1-Pad1)">
-      <node ref="R1" pin="2"/>
-      <node ref="C1" pin="1"/>
+    <net code="25" name="/Bat_Reg_4/TH">
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="TH4" pin="1" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="NTC" pintype="input"/>
     </net>
-    <net code="26" name="Net-(Q1-Pad4)">
-      <node ref="Q1" pin="4"/>
-      <node ref="U1" pin="6"/>
+    <net code="26" name="/Bat_Reg_4/VIN">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q7" pin="1" pintype="passive"/>
+      <node ref="Q7" pin="2" pintype="passive"/>
+      <node ref="Q7" pin="3" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="27" name="/Bat_Reg_4/V_Bat">
+      <node ref="BT7" pin="P1_1" pintype="passive"/>
+      <node ref="BT7" pin="P1_2" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="L8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U4" pin="19" pinfunction="BATSENS+" pintype="input"/>
+      <node ref="U4" pin="20" pinfunction="CSN" pintype="input"/>
+    </net>
+    <net code="28" name="/Bat_Reg_4/{slash}SMBALERT">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="/SMBALERT" pintype="input"/>
+    </net>
+    <net code="29" name="/V_Reg_3.3_5V/#SHDN">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="~{SHDN}" pintype="input"/>
+    </net>
+    <net code="30" name="/V_Reg_3.3_5V/#STBY">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="~{STBY}" pintype="input"/>
+    </net>
+    <net code="31" name="/V_Reg_3.3_5V/3{slash}#5">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="3/~{5}" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/V_Reg_3.3_5V/Vout">
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U5" pin="9" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="33" name="/V_Reg_3.3_5V1/#SHDN">
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="~{SHDN}" pintype="input"/>
+    </net>
+    <net code="34" name="/V_Reg_3.3_5V1/#STBY">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="~{STBY}" pintype="input"/>
+    </net>
+    <net code="35" name="/V_Reg_3.3_5V1/3{slash}#5">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U6" pin="6" pinfunction="3/~{5}" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/V_Reg_3.3_5V1/Vout">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U6" pin="9" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="37" name="/V_Reg_3.3_5V2/#SHDN">
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="~{SHDN}" pintype="input"/>
+    </net>
+    <net code="38" name="/V_Reg_3.3_5V2/#STBY">
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="~{STBY}" pintype="input"/>
+    </net>
+    <net code="39" name="/V_Reg_3.3_5V2/3{slash}#5">
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U7" pin="6" pinfunction="3/~{5}" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="/V_Reg_3.3_5V2/Vout">
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U7" pin="9" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="41" name="/V_Reg_3.3_5V3/#SHDN">
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="~{SHDN}" pintype="input"/>
+    </net>
+    <net code="42" name="/V_Reg_3.3_5V3/#STBY">
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="~{STBY}" pintype="input"/>
+    </net>
+    <net code="43" name="/V_Reg_3.3_5V3/3{slash}#5">
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U8" pin="6" pinfunction="3/~{5}" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/V_Reg_3.3_5V3/Vout">
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U8" pin="9" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="45" name="GND">
+      <node ref="BT2" pin="P1_1" pintype="passive"/>
+      <node ref="BT2" pin="P1_2" pintype="passive"/>
+      <node ref="BT4" pin="P1_1" pintype="passive"/>
+      <node ref="BT4" pin="P1_2" pintype="passive"/>
+      <node ref="BT6" pin="P1_1" pintype="passive"/>
+      <node ref="BT6" pin="P1_2" pintype="passive"/>
+      <node ref="BT8" pin="P1_1" pintype="passive"/>
+      <node ref="BT8" pin="P1_2" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J10" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J10" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J10" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J11" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J11" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J11" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J12" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J12" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J12" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J13" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J13" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J13" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J14" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J14" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J14" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J15" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J15" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J15" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J15" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="TH1" pin="2" pintype="passive"/>
+      <node ref="TH2" pin="2" pintype="passive"/>
+      <node ref="TH3" pin="2" pintype="passive"/>
+      <node ref="TH4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="SYNC" pintype="input"/>
+      <node ref="U1" pin="23" pinfunction="PGND" pintype="input"/>
+      <node ref="U1" pin="24" pinfunction="PGND" pintype="input"/>
+      <node ref="U1" pin="29" pinfunction="AGND" pintype="input"/>
+      <node ref="U2" pin="16" pinfunction="SYNC" pintype="input"/>
+      <node ref="U2" pin="23" pinfunction="PGND" pintype="input"/>
+      <node ref="U2" pin="24" pinfunction="PGND" pintype="input"/>
+      <node ref="U2" pin="29" pinfunction="AGND" pintype="input"/>
+      <node ref="U3" pin="16" pinfunction="SYNC" pintype="input"/>
+      <node ref="U3" pin="23" pinfunction="PGND" pintype="input"/>
+      <node ref="U3" pin="24" pinfunction="PGND" pintype="input"/>
+      <node ref="U3" pin="29" pinfunction="AGND" pintype="input"/>
+      <node ref="U4" pin="16" pinfunction="SYNC" pintype="input"/>
+      <node ref="U4" pin="23" pinfunction="PGND" pintype="input"/>
+      <node ref="U4" pin="24" pinfunction="PGND" pintype="input"/>
+      <node ref="U4" pin="29" pinfunction="AGND" pintype="input"/>
+      <node ref="U5" pin="14" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U5" pin="15" pinfunction="PGND" pintype="bidirectional"/>
+      <node ref="U5" pin="2" pinfunction="PGND" pintype="bidirectional"/>
+      <node ref="U5" pin="7" pinfunction="N/~{E}" pintype="bidirectional"/>
+      <node ref="U6" pin="14" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U6" pin="15" pinfunction="PGND" pintype="bidirectional"/>
+      <node ref="U6" pin="2" pinfunction="PGND" pintype="bidirectional"/>
+      <node ref="U6" pin="7" pinfunction="N/~{E}" pintype="bidirectional"/>
+      <node ref="U7" pin="14" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U7" pin="15" pinfunction="PGND" pintype="bidirectional"/>
+      <node ref="U7" pin="2" pinfunction="PGND" pintype="bidirectional"/>
+      <node ref="U7" pin="7" pinfunction="N/~{E}" pintype="bidirectional"/>
+      <node ref="U8" pin="14" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="U8" pin="15" pinfunction="PGND" pintype="bidirectional"/>
+      <node ref="U8" pin="2" pinfunction="PGND" pintype="bidirectional"/>
+      <node ref="U8" pin="7" pinfunction="N/~{E}" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VCC2P5" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="CELLS0" pintype="input"/>
+      <node ref="U1" pin="18" pinfunction="CELLS1" pintype="input"/>
+      <node ref="U1" pin="2" pinfunction="INTVCC" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="BOOST" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="SW" pintype="input"/>
+      <node ref="U1" pin="26" pinfunction="SW" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="3" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="VOUT" pintype="input"/>
+      <node ref="U1" pin="28" pinfunction="VOUT" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="VOUTA" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="CLN" pintype="input"/>
+    </net>
+    <net code="52" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="VCC2P5" pintype="input"/>
+    </net>
+    <net code="54" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="CELLS0" pintype="input"/>
+      <node ref="U2" pin="18" pinfunction="CELLS1" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="INTVCC" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="BOOST" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="25" pinfunction="SW" pintype="input"/>
+      <node ref="U2" pin="26" pinfunction="SW" pintype="input"/>
+    </net>
+    <net code="57" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="Q4" pin="3" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U2" pin="27" pinfunction="VOUT" pintype="input"/>
+      <node ref="U2" pin="28" pinfunction="VOUT" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="VOUTA" pintype="input"/>
+      <node ref="U2" pin="4" pinfunction="CLN" pintype="input"/>
+    </net>
+    <net code="58" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(C17-Pad2)">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="VCC2P5" pintype="input"/>
+    </net>
+    <net code="60" name="Net-(C18-Pad1)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="CELLS0" pintype="input"/>
+      <node ref="U3" pin="18" pinfunction="CELLS1" pintype="input"/>
+      <node ref="U3" pin="2" pinfunction="INTVCC" pintype="input"/>
+    </net>
+    <net code="61" name="Net-(C19-Pad1)">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="BOOST" pintype="input"/>
+    </net>
+    <net code="62" name="Net-(C19-Pad2)">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="25" pinfunction="SW" pintype="input"/>
+      <node ref="U3" pin="26" pinfunction="SW" pintype="input"/>
+    </net>
+    <net code="63" name="Net-(C21-Pad1)">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="Q6" pin="3" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U3" pin="27" pinfunction="VOUT" pintype="input"/>
+      <node ref="U3" pin="28" pinfunction="VOUT" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="VOUTA" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="CLN" pintype="input"/>
+    </net>
+    <net code="64" name="Net-(C22-Pad1)">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(C24-Pad2)">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="VCC2P5" pintype="input"/>
+    </net>
+    <net code="66" name="Net-(C25-Pad1)">
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="U4" pin="17" pinfunction="CELLS0" pintype="input"/>
+      <node ref="U4" pin="18" pinfunction="CELLS1" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="INTVCC" pintype="input"/>
+    </net>
+    <net code="67" name="Net-(C26-Pad1)">
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="BOOST" pintype="input"/>
+    </net>
+    <net code="68" name="Net-(C26-Pad2)">
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="L4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U4" pin="25" pinfunction="SW" pintype="input"/>
+      <node ref="U4" pin="26" pinfunction="SW" pintype="input"/>
+    </net>
+    <net code="69" name="Net-(C28-Pad1)">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="Q8" pin="3" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U4" pin="27" pinfunction="VOUT" pintype="input"/>
+      <node ref="U4" pin="28" pinfunction="VOUT" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="VOUTA" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="CLN" pintype="input"/>
+    </net>
+    <net code="70" name="Net-(C30-Pad1)">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(C32-Pad1)">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(C34-Pad1)">
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(C36-Pad1)">
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J10" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J11" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J12" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J13" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J14" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J15" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J10" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J11" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J12" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J13" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J14" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J15" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J12" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J13" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J14" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J15" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="LX" pintype="bidirectional"/>
+      <node ref="U5" pin="16" pinfunction="LX" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="LX" pintype="bidirectional"/>
+      <node ref="U6" pin="16" pinfunction="LX" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="LX" pintype="bidirectional"/>
+      <node ref="U7" pin="16" pinfunction="LX" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U8" pin="1" pinfunction="LX" pintype="bidirectional"/>
+      <node ref="U8" pin="16" pinfunction="LX" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="Net-(L1-Pad2)">
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q2" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="CSP" pintype="input"/>
+    </net>
+    <net code="83" name="Net-(L2-Pad2)">
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q4" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U2" pin="21" pinfunction="CSP" pintype="input"/>
+    </net>
+    <net code="84" name="Net-(L3-Pad2)">
+      <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q6" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U3" pin="21" pinfunction="CSP" pintype="input"/>
+    </net>
+    <net code="85" name="Net-(L4-Pad2)">
+      <node ref="L4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q8" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U4" pin="21" pinfunction="CSP" pintype="input"/>
+    </net>
+    <net code="86" name="Net-(Q1-Pad4)">
+      <node ref="Q1" pin="4" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="INFET" pintype="input"/>
+    </net>
+    <net code="87" name="Net-(Q1-Pad5_8)">
+      <node ref="Q1" pin="5_8" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="CLP" pintype="input"/>
+    </net>
+    <net code="88" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="BATFET" pintype="input"/>
+    </net>
+    <net code="89" name="Net-(Q3-Pad4)">
+      <node ref="Q3" pin="4" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="INFET" pintype="input"/>
+    </net>
+    <net code="90" name="Net-(Q3-Pad5_8)">
+      <node ref="Q3" pin="5_8" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="CLP" pintype="input"/>
+    </net>
+    <net code="91" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="BATFET" pintype="input"/>
+    </net>
+    <net code="92" name="Net-(Q5-Pad4)">
+      <node ref="Q5" pin="4" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="INFET" pintype="input"/>
+    </net>
+    <net code="93" name="Net-(Q5-Pad5_8)">
+      <node ref="Q5" pin="5_8" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="CLP" pintype="input"/>
+    </net>
+    <net code="94" name="Net-(Q6-Pad1)">
+      <node ref="Q6" pin="1" pintype="passive"/>
+      <node ref="U3" pin="22" pinfunction="BATFET" pintype="input"/>
+    </net>
+    <net code="95" name="Net-(Q7-Pad4)">
+      <node ref="Q7" pin="4" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="INFET" pintype="input"/>
+    </net>
+    <net code="96" name="Net-(Q7-Pad5_8)">
+      <node ref="Q7" pin="5_8" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="CLP" pintype="input"/>
+    </net>
+    <net code="97" name="Net-(Q8-Pad1)">
+      <node ref="Q8" pin="1" pintype="passive"/>
+      <node ref="U4" pin="22" pinfunction="BATFET" pintype="input"/>
+    </net>
+    <net code="98" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="NTCBIAS" pintype="input"/>
+    </net>
+    <net code="99" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="RT" pintype="input"/>
+    </net>
+    <net code="100" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="NTCBIAS" pintype="input"/>
+    </net>
+    <net code="101" name="Net-(R9-Pad2)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="RT" pintype="input"/>
+    </net>
+    <net code="102" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="NTCBIAS" pintype="input"/>
+    </net>
+    <net code="103" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="RT" pintype="input"/>
+    </net>
+    <net code="104" name="Net-(R17-Pad1)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U4" pin="9" pinfunction="NTCBIAS" pintype="input"/>
+    </net>
+    <net code="105" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U4" pin="11" pinfunction="RT" pintype="input"/>
+    </net>
+    <net code="106" name="Net-(U5-Pad10)">
+      <node ref="U5" pin="10" pinfunction="LBI-" pintype="bidirectional"/>
+      <node ref="U5" pin="13" pinfunction="REF" pintype="output"/>
+    </net>
+    <net code="107" name="Net-(U5-Pad11)">
+      <node ref="U5" pin="11" pinfunction="LBI+" pintype="bidirectional"/>
+      <node ref="U5" pin="12" pinfunction="PS" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="ILIM" pintype="input"/>
+    </net>
+    <net code="108" name="Net-(U6-Pad10)">
+      <node ref="U6" pin="10" pinfunction="LBI-" pintype="bidirectional"/>
+      <node ref="U6" pin="13" pinfunction="REF" pintype="output"/>
+    </net>
+    <net code="109" name="Net-(U6-Pad11)">
+      <node ref="U6" pin="11" pinfunction="LBI+" pintype="bidirectional"/>
+      <node ref="U6" pin="12" pinfunction="PS" pintype="input"/>
+      <node ref="U6" pin="3" pinfunction="ILIM" pintype="input"/>
+    </net>
+    <net code="110" name="Net-(U7-Pad10)">
+      <node ref="U7" pin="10" pinfunction="LBI-" pintype="bidirectional"/>
+      <node ref="U7" pin="13" pinfunction="REF" pintype="output"/>
+    </net>
+    <net code="111" name="Net-(U7-Pad11)">
+      <node ref="U7" pin="11" pinfunction="LBI+" pintype="bidirectional"/>
+      <node ref="U7" pin="12" pinfunction="PS" pintype="input"/>
+      <node ref="U7" pin="3" pinfunction="ILIM" pintype="input"/>
+    </net>
+    <net code="112" name="Net-(U8-Pad10)">
+      <node ref="U8" pin="10" pinfunction="LBI-" pintype="bidirectional"/>
+      <node ref="U8" pin="13" pinfunction="REF" pintype="output"/>
+    </net>
+    <net code="113" name="Net-(U8-Pad11)">
+      <node ref="U8" pin="11" pinfunction="LBI+" pintype="bidirectional"/>
+      <node ref="U8" pin="12" pinfunction="PS" pintype="input"/>
+      <node ref="U8" pin="3" pinfunction="ILIM" pintype="input"/>
+    </net>
+    <net code="114" name="unconnected-(U5-Pad8)">
+      <node ref="U5" pin="8" pinfunction="LBO" pintype="no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(U6-Pad8)">
+      <node ref="U6" pin="8" pinfunction="LBO" pintype="no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(U7-Pad8)">
+      <node ref="U7" pin="8" pinfunction="LBO" pintype="no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(U8-Pad8)">
+      <node ref="U8" pin="8" pinfunction="LBO" pintype="no_connect"/>
     </net>
   </nets>
 </export>
