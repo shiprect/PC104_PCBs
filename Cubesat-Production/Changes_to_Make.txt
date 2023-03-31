@@ -1,0 +1,17 @@
+r10, r15, r5, r3, r8, r13 are wrong size - too big
+might need to do thermistors by hand
+check text orientation
+r10, r5, r15, may need to be flipped to keep side connected to transistor on same side
+text size
+maybe flip c2, c4, c6. c9, c11, c13. c16, c18, c20
+r6, c9, (and other) label placements
+move q5 label down
+make pin 1 location more obvious
+increase font size for /SMBA, SCL, etc
+for connectors, make all squares GND or something
+remove the +'s from the battery connector footprints and have a + and - indicating pos and neg
+remove BT1, BT2, ... from the silk screen
+remove H1, H2, ... from silk screen
+battery connectors need to be spaced out more and maybe removed
+check if d6 etc. is the wrong kind and put on 606
+visually separate Bat1, Bat2, circuitry
