@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 3.2,
-          "width": 3.2
+          "drill": 1.6,
+          "height": 2.4,
+          "width": 2.4
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -426,7 +426,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -436,6 +436,34 @@
     [
       "8850ce5c-0a31-4af8-980a-e96fd56ae715",
       ""
+    ],
+    [
+      "cf1aff82-9d0a-48d8-ab59-8548d6686ba1",
+      "Solar_Panels"
+    ],
+    [
+      "3fd114ff-e33c-4b16-8730-59d4b28c2f50",
+      "Bat_Reg_1"
+    ],
+    [
+      "48dfdeea-6c8d-41e0-8225-3e132bb7dd5e",
+      "Bat_Reg_3"
+    ],
+    [
+      "5758088c-06eb-4f39-8d11-5015bb01b0cf",
+      "Bat_Reg_2"
+    ],
+    [
+      "264a31e3-b860-47ed-a253-cc03c193f4db",
+      "V_Reg_3.3_5V1"
+    ],
+    [
+      "ee95f572-2ce1-4849-aabc-fd8e359267bc",
+      "V_Reg_3.3_5V3"
+    ],
+    [
+      "a1cf36e3-0997-44cf-8f48-cfbfdeef3847",
+      "V_Reg_3.3_5V2"
     ]
   ],
   "text_variables": {}
