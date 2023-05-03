@@ -5730,7 +5730,7 @@
   (gr_text "SDA" (at 189.25 93.7 315) (layer "F.SilkS") (tstamp b5df104a-5617-4d39-8a58-6dcf384f2057)
     (effects (font (size 0.75 0.75) (thickness 0.15)))
   )
-  (gr_text "Bat2\n" (at 190.85 63) (layer "F.SilkS") (tstamp c1da7a99-e6ad-4c26-8257-34dee332bfd1)
+  (gr_text "Bat2\n" (at 191.5 62) (layer "F.SilkS") (tstamp c1da7a99-e6ad-4c26-8257-34dee332bfd1)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "SDA" (at 157.95 68.5 45) (layer "F.SilkS") (tstamp c99f0512-bedc-4ace-92c6-7ec9a276e033)
