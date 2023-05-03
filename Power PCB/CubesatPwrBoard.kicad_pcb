@@ -4621,7 +4621,7 @@
     (property "Sheetname" "")
     (path "/ed613032-2fa9-469e-8bcb-28b4943c117e")
     (attr smd)
-    (fp_text reference "J7" (at 0 -6 -270 unlocked) (layer "F.SilkS")
+    (fp_text reference "J7" (at 0 -6 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5fc14b8b-faf2-499e-be0e-c3d378279361)
     )
