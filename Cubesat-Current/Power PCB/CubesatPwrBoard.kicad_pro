@@ -372,7 +372,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.25,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -381,13 +381,11 @@
         "microvia_drill": 0.1,
         "name": "Battery",
         "nets": [
-          "/Bat_Reg_1/V_Bat",
-          "/Bat_Reg_2/V_Bat",
           "/Bat_Reg_3/V_Bat"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
+        "track_width": 0.25,
         "via_diameter": 1.0,
         "via_drill": 0.4,
         "wire_width": 6.0
@@ -457,28 +455,20 @@
       "Solar_Panels"
     ],
     [
-      "3fd114ff-e33c-4b16-8730-59d4b28c2f50",
-      "Bat_Reg_1"
+      "c7b064da-4633-4332-92b4-7dc4bca918dc",
+      "Bat_Reg_4"
     ],
     [
       "48dfdeea-6c8d-41e0-8225-3e132bb7dd5e",
       "Bat_Reg_3"
     ],
     [
-      "5758088c-06eb-4f39-8d11-5015bb01b0cf",
-      "Bat_Reg_2"
-    ],
-    [
-      "264a31e3-b860-47ed-a253-cc03c193f4db",
-      "V_Reg_3.3_5V1"
+      "05f8bf55-4753-46a4-8714-b01d32583b30",
+      "V_Reg_3.3_5V4"
     ],
     [
       "ee95f572-2ce1-4849-aabc-fd8e359267bc",
       "V_Reg_3.3_5V3"
-    ],
-    [
-      "a1cf36e3-0997-44cf-8f48-cfbfdeef3847",
-      "V_Reg_3.3_5V2"
     ]
   ],
   "text_variables": {}

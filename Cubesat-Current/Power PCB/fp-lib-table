@@ -9,4 +9,6 @@
   (lib (name "6915_1x4")(type "KiCad")(uri "${KIPRJMOD}/Libraries/6915_1x4")(options "")(descr ""))
   (lib (name "TPS61202DRCT")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TPS61202DRCT")(options "")(descr ""))
   (lib (name "MAX710ESE")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MAX710ESE")(options "")(descr ""))
+  (lib (name "Connectors_Cubesat_Custom")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Connectors_Cubesat_Custom")(options "")(descr ""))
+  (lib (name "Nexperia")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Nexperia")(options "")(descr ""))
 )
