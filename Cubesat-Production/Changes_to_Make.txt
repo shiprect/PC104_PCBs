@@ -15,3 +15,8 @@ remove H1, H2, ... from silk screen
 battery connectors need to be spaced out more and maybe removed
 check if d6 etc. is the wrong kind and put on 606
 visually separate Bat1, Bat2, circuitry
+
+100u caps are 0805
+secondary voltage reg IC diodes are SOD-882
+
+make IC pads and transistor pads longer
